@@ -1,0 +1,123 @@
+/* Critical font declarations - loaded statically to prevent FOUT during navigation */
+/* Note: Overused Grotesk is declared inline in _document.js (not here) because @font-face src does not support CSS var() */
+
+/* Delight Fallback - adjusted to match Delight metrics to minimize layout shift */
+@font-face {
+    font-family: 'Delight Fallback';
+    src: local('BlinkMacSystemFont'), local('-apple-system'), local('Segoe UI'), local('Roboto'), local('sans-serif');
+    size-adjust: 105%;
+    ascent-override: 95%;
+    descent-override: 22%;
+    line-gap-override: 0%;
+}
+
+/* Overused Grotesk Fallback - adjusted to match Overused Grotesk metrics */
+@font-face {
+    font-family: 'Grotesk Fallback';
+    src: local('BlinkMacSystemFont'), local('-apple-system'), local('Segoe UI'), local('Roboto'), local('sans-serif');
+    size-adjust: 100%;
+    ascent-override: 90%;
+    descent-override: 22%;
+    line-gap-override: 0%;
+}
+
+/* Delight font - using swap with optimized fallback for instant rendering */
+@font-face {
+    font-family: 'Delight';
+    src: url('fonts/delight-extralight.otf') format('opentype');
+    font-weight: 200;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Delight';
+    src: url('fonts/delight-light.otf') format('opentype');
+    font-weight: 300;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Delight';
+    src: url('fonts/delight-regular.otf') format('opentype');
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Delight';
+    src: url('fonts/delight-medium.otf') format('opentype');
+    font-weight: 500;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Delight';
+    src: url('fonts/delight-semibold.otf') format('opentype');
+    font-weight: 600;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Delight';
+    src: url('fonts/delight-bold.otf') format('opentype');
+    font-weight: 700;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Delight';
+    src: url('fonts/delight-extrabold.otf') format('opentype');
+    font-weight: 800;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Delight';
+    src: url('fonts/delight-black.otf') format('opentype');
+    font-weight: 900;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Advercase';
+    src: url('fonts/advercase-regular.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Advercase';
+    src: url('fonts/advercase-bold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Monaspace Neon';
+    src: url('fonts/MonaspaceNeon-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Monaspace Neon';
+    src: url('fonts/MonaspaceNeon-Light.woff') format('woff');
+    font-weight: 300;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Monaspace Neon';
+    src: url('fonts/MonaspaceNeon-Medium.woff') format('woff');
+    font-weight: 500;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Monaspace Radon';
+    src: url('fonts/MonaspaceRadon-Regular.woff') format('woff');
+    font-weight: 400;
+    font-display: swap;
+}

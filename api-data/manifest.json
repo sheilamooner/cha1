@@ -1,0 +1,14 @@
+{
+ "https://api.blockchain.info/charts/my-wallet-n-users?format=json&cors=true": "api.blockchain.info_charts_my_wallet_n_users_format_json_cors_true.json",
+ "https://api.blockchain.info/v3/exchange/tickers": "api.blockchain.info_v_exchange_tickers.json",
+ "https://api.blockchain.info/price/index-series?base=BTC&quote=USDT&scale=7200": "api.blockchain.info_price_index_series_base_BTC_quote_USDT_scale_00.json",
+ "https://api.blockchain.info/price/index-series?base=BCH&quote=USDT&scale=7200": "api.blockchain.info_price_index_series_base_BCH_quote_USDT_scale_00.json",
+ "https://api.blockchain.info/price/index-series?base=ETH&quote=USDT&scale=7200": "api.blockchain.info_price_index_series_base_ETH_quote_USDT_scale_00.json",
+ "https://api.blockchain.info/price/index-series?base=LTC&quote=USDT&scale=7200": "api.blockchain.info_price_index_series_base_LTC_quote_USDT_scale_00.json",
+ "https://api.blockchain.info/price/index-series?base=SOL&quote=USDT&scale=7200": "api.blockchain.info_price_index_series_base_SOL_quote_USDT_scale_00.json",
+ "https://api.blockchain.info/savings/v1/rates": "api.blockchain.info_savings_v_rates.json",
+ "https://api.blockchain.info/nabu-gateway/earn/rates?product=staking": "api.blockchain.info_nabu_gateway_earn_rates_product_staking.json",
+ "https://api.blockchain.info/savings/v1/fixed-term-savings/configuration": "api.blockchain.info_savings_v_fixed_term_savings_configuration.json",
+ "https://api.blockchain.info/nabu-gateway/geolocation2": "api.blockchain.info_nabu_gateway_geolocation.json",
+ "https://api.blockchain.info/assets/currencies/custodial": "api.blockchain.info_assets_currencies_custodial.json"
+}

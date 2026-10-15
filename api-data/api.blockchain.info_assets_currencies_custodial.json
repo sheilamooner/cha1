@@ -1,0 +1,5694 @@
+{
+  "currencies": [
+    {
+      "symbol": "1INCH",
+      "displaySymbol": "1INCH",
+      "name": "1INCH Token",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x111111111117dC0aa78b770fA6A738034120C302",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x111111111117dC0aa78b770fA6A738034120C302.png",
+        "websiteUrl": "https://1inch.io/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "MercuryWithdrawals",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "140585734"
+    },
+    {
+      "symbol": "AAVE",
+      "displaySymbol": "AAVE",
+      "name": "Aave",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9.png",
+        "websiteUrl": "https://app.aave.com/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "MercuryWithdrawals",
+        "InterestBalance",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "2234443116"
+    },
+    {
+      "symbol": "ADA",
+      "displaySymbol": "ADA",
+      "name": "Cardano",
+      "type": {
+        "minimumOnChainConfirmations": 0,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/cardano.png",
+        "websiteUrl": "https://cardano.org",
+        "name": "COIN"
+      },
+      "precision": 6,
+      "products": [
+        "InterestBalance",
+        "MercuryWithdrawals",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "PrivateKey",
+        "CustodialWalletBalance"
+      ],
+      "categories": [
+        {
+          "id": "LAYER1",
+          "name": "Layer 1",
+          "description": "Layer 1 cryptos are the foundational blockchain networks that process and validate transactions, providing the core infrastructure for decentralized applications.",
+          "subCategories": []
+        }
+      ],
+      "score": "9331047860"
+    },
+    {
+      "symbol": "ADI",
+      "displaySymbol": "ADI",
+      "name": "ADI",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x8b1484d57abbe239bb280661377363b03c89caea",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x8b1484d57abbe239bb280661377363b03c89caea.png",
+        "websiteUrl": "https://www.adi.foundation/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "LAYER2",
+          "name": "Layer 2 or Layer 3",
+          "description": "Layer 2 and Layer 3 cryptos are scaling solutions built on top of blockchains to improve transaction speed, reduce costs, and enhance network efficiency. Layer 2s operate directly above Layer 1s, while Layer 3s build on top of Layer 2s to provide even greater scalability, customization, and application-specific functionality.",
+          "subCategories": []
+        },
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "79517068"
+    },
+    {
+      "symbol": "AI16Z.SOL",
+      "displaySymbol": "AI16Z",
+      "name": "ai16z",
+      "type": {
+        "parentChain": "SOL",
+        "address": "HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/solana/HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC.png",
+        "websiteUrl": "https://www.elizaos.ai/",
+        "name": "SOLANA_TOKEN"
+      },
+      "precision": 9,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "AI",
+          "name": "AI",
+          "description": "AI tokens are cryptocurrencies that fund AI projects, enable transactions, reward data sharing, or support machine learning, bridging blockchain and AI.",
+          "subCategories": []
+        }
+      ],
+      "score": "495018"
+    },
+    {
+      "symbol": "ALGO",
+      "displaySymbol": "ALGO",
+      "name": "Algorand",
+      "type": {
+        "minimumOnChainConfirmations": 1,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/algorand.png",
+        "websiteUrl": "http://algorand.foundation",
+        "name": "COIN"
+      },
+      "precision": 6,
+      "products": [
+        "MercuryWithdrawals",
+        "InterestBalance",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance"
+      ],
+      "categories": [
+        {
+          "id": "LAYER1",
+          "name": "Layer 1",
+          "description": "Layer 1 cryptos are the foundational blockchain networks that process and validate transactions, providing the core infrastructure for decentralized applications.",
+          "subCategories": []
+        }
+      ],
+      "score": "1015030545"
+    },
+    {
+      "symbol": "AMP",
+      "displaySymbol": "AMP",
+      "name": "Amp",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xfF20817765cB7f73d4bde2e66e067E58D11095C2",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xfF20817765cB7f73d4bde2e66e067E58D11095C2.png",
+        "websiteUrl": "https://amptoken.org",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "45116155"
+    },
+    {
+      "symbol": "ANKR",
+      "displaySymbol": "ANKR",
+      "name": "Ankr",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4.png",
+        "websiteUrl": "https://www.ankr.com/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "49287192"
+    },
+    {
+      "symbol": "APE",
+      "displaySymbol": "APE",
+      "name": "ApeCoin",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x4d224452801ACEd8B2F0aebE155379bb5D594381",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x4d224452801ACEd8B2F0aebE155379bb5D594381.png",
+        "websiteUrl": "https://apecoin.com/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "MercuryWithdrawals",
+        "InterestBalance",
+        "PrivateKey",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance"
+      ],
+      "categories": [],
+      "score": "151350534"
+    },
+    {
+      "symbol": "AR",
+      "displaySymbol": "AR",
+      "name": "Arweave",
+      "type": {
+        "minimumOnChainConfirmations": 0,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/arweave.png",
+        "name": "COIN"
+      },
+      "precision": 12,
+      "products": [],
+      "categories": [],
+      "score": "296564788"
+    },
+    {
+      "symbol": "MNT",
+      "displaySymbol": "MNT",
+      "name": "Mantle",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x3c3a81e81dc49A522A592e7622A7E711c06bf354",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x3c3a81e81dc49A522A592e7622A7E711c06bf354.png",
+        "websiteUrl": "https://www.mantle.xyz/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "LAYER2",
+          "name": "Layer 2 or Layer 3",
+          "description": "Layer 2 and Layer 3 cryptos are scaling solutions built on top of blockchains to improve transaction speed, reduce costs, and enhance network efficiency. Layer 2s operate directly above Layer 1s, while Layer 3s build on top of Layer 2s to provide even greater scalability, customization, and application-specific functionality.",
+          "subCategories": []
+        },
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "2255218991"
+    },
+    {
+      "symbol": "SKY",
+      "displaySymbol": "SKY",
+      "name": "Sky",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x56072C95FAA701256059aa122697B133aDEd9279",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x56072C95FAA701256059aa122697B133aDEd9279.png",
+        "websiteUrl": "https://sky.money/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "1760622036"
+    },
+    {
+      "symbol": "USDS",
+      "displaySymbol": "USDS",
+      "name": "USDS",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xdC035D45d973E3EC169d2276DDab16f1e407384F",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xdC035D45d973E3EC169d2276DDab16f1e407384F.png",
+        "websiteUrl": "https://sky.money/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "9633627133"
+    },
+    {
+      "symbol": "EURC",
+      "displaySymbol": "EURC",
+      "name": "Euro Coin",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c.png",
+        "websiteUrl": "https://www.circle.com/en/",
+        "name": "ERC20"
+      },
+      "precision": 6,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "457949663"
+    },
+    {
+      "symbol": "ARB.ARBETH",
+      "displaySymbol": "ARB",
+      "name": "Arbitrum",
+      "type": {
+        "parentChain": "ARBETH",
+        "erc20Address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/arbitrum/0x912CE59144191C1204E64559FE8253a0e49E6548.png",
+        "websiteUrl": "https://arbitrum.io/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "LAYER2",
+          "name": "Layer 2 or Layer 3",
+          "description": "Layer 2 and Layer 3 cryptos are scaling solutions built on top of blockchains to improve transaction speed, reduce costs, and enhance network efficiency. Layer 2s operate directly above Layer 1s, while Layer 3s build on top of Layer 2s to provide even greater scalability, customization, and application-specific functionality.",
+          "subCategories": []
+        }
+      ],
+      "score": "1443340827"
+    },
+    {
+      "symbol": "ARBETH",
+      "displaySymbol": "ETH",
+      "name": "Ethereum",
+      "type": {
+        "minimumOnChainConfirmations": 512,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/arbitrum.png",
+        "websiteUrl": "https://offchainlabs.com",
+        "name": "COIN"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey",
+        "CWWithdrawal",
+        "CWDeposit"
+      ],
+      "categories": [],
+      "score": "323513228540"
+    },
+    {
+      "symbol": "ARG.CHZ",
+      "displaySymbol": "ARG",
+      "name": "Argentina ($ARG) - Chiliz",
+      "type": {
+        "parentChain": "CHZ",
+        "erc20Address": "0xd34625c1c812439229EF53e06f22053249D011f5",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/chiliz/0xd34625c1c812439229EF53e06f22053249D011f5.png",
+        "websiteUrl": "https://www.paribu.com/",
+        "name": "ERC20"
+      },
+      "precision": 0,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "ATOM",
+      "displaySymbol": "ATOM",
+      "name": "Cosmos",
+      "type": {
+        "minimumOnChainConfirmations": 0,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/cosmos.png",
+        "websiteUrl": "https://cosmos.network/",
+        "name": "COIN"
+      },
+      "precision": 6,
+      "products": [],
+      "categories": [],
+      "score": "952584274"
+    },
+    {
+      "symbol": "AVAX",
+      "displaySymbol": "AVAX",
+      "name": "Avalanche C-Chain",
+      "type": {
+        "minimumOnChainConfirmations": 30,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/avalanchec.png",
+        "websiteUrl": "http://avax.network",
+        "name": "COIN"
+      },
+      "precision": 18,
+      "products": [
+        "MercuryWithdrawals",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "InterestBalance",
+        "PrivateKey",
+        "CustodialWalletBalance"
+      ],
+      "categories": [
+        {
+          "id": "LAYER1",
+          "name": "Layer 1",
+          "description": "Layer 1 cryptos are the foundational blockchain networks that process and validate transactions, providing the core infrastructure for decentralized applications.",
+          "subCategories": []
+        }
+      ],
+      "score": "4583884308"
+    },
+    {
+      "symbol": "AXS",
+      "displaySymbol": "AXS",
+      "name": "Axie Infinity Shard",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b.png",
+        "websiteUrl": "https://axieinfinity.com/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "196978525"
+    },
+    {
+      "symbol": "BADGER",
+      "displaySymbol": "BADGER",
+      "name": "Badger",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x3472A5A71965499acd81997a54BBA8D852C6E53d",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x3472A5A71965499acd81997a54BBA8D852C6E53d.png",
+        "websiteUrl": "https://badger.com/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "6715502"
+    },
+    {
+      "symbol": "BAL",
+      "displaySymbol": "BAL",
+      "name": "Balancer",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xba100000625a3754423978a60c9317c58a424e3D",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xba100000625a3754423978a60c9317c58a424e3D.png",
+        "websiteUrl": "https://balancer.finance/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "8405257"
+    },
+    {
+      "symbol": "BAND",
+      "displaySymbol": "BAND",
+      "name": "Band Protocol",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55.png",
+        "websiteUrl": "https://bandprotocol.com/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "40167514"
+    },
+    {
+      "symbol": "BASEETH",
+      "displaySymbol": "ETH",
+      "name": "Ethereum",
+      "type": {
+        "minimumOnChainConfirmations": 64,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/base.png",
+        "websiteUrl": "https://www.base.org/",
+        "name": "COIN"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey",
+        "CWWithdrawal",
+        "CWDeposit"
+      ],
+      "categories": [],
+      "score": "323513228542"
+    },
+    {
+      "symbol": "BAT",
+      "displaySymbol": "BAT",
+      "name": "Basic Attention Token",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x0D8775F648430679A709E98d2b0Cb6250d2887EF.png",
+        "websiteUrl": "https://basicattentiontoken.org/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "MercuryWithdrawals",
+        "PrivateKey",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "InterestBalance",
+        "CustodialWalletBalance"
+      ],
+      "categories": [],
+      "score": "135636458"
+    },
+    {
+      "symbol": "BCH",
+      "displaySymbol": "BCH",
+      "name": "Bitcoin Cash",
+      "type": {
+        "minimumOnChainConfirmations": 3,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/bitcoincash.png",
+        "websiteUrl": "https://bitcoincash.org/",
+        "name": "COIN"
+      },
+      "precision": 8,
+      "products": [
+        "MercuryWithdrawals",
+        "InterestBalance",
+        "PrivateKey",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance"
+      ],
+      "categories": [
+        {
+          "id": "LAYER1",
+          "name": "Layer 1",
+          "description": "Layer 1 cryptos are the foundational blockchain networks that process and validate transactions, providing the core infrastructure for decentralized applications.",
+          "subCategories": []
+        }
+      ],
+      "score": "6612509844"
+    },
+    {
+      "symbol": "BILLY.SOL",
+      "displaySymbol": "BILLY",
+      "name": "BILLY",
+      "type": {
+        "parentChain": "SOL",
+        "address": "3B5wuUrMEi5yATD7on46hKfej3pfmd7t1RKgrsN3pump",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/solana/3B5wuUrMEi5yATD7on46hKfej3pfmd7t1RKgrsN3pump.png",
+        "websiteUrl": "https://billysol.lol/",
+        "name": "SOLANA_TOKEN"
+      },
+      "precision": 6,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "MEME",
+          "name": "Meme",
+          "description": "Memecoins are cryptocurrencies inspired by internet memes or jokes, often characterized by their viral appeal and community-driven value.",
+          "subCategories": []
+        }
+      ],
+      "score": "493784"
+    },
+    {
+      "symbol": "BNB",
+      "displaySymbol": "BNB",
+      "name": "Binance Smart Chain",
+      "type": {
+        "minimumOnChainConfirmations": 30,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/smartchain.png",
+        "name": "COIN"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "InterestBalance",
+        "CustodialWalletBalance"
+      ],
+      "categories": [
+        {
+          "id": "POPULAR",
+          "name": "Popular",
+          "description": "Popular cryptos are widely recognized and frequently traded cryptocurrencies known for their significant market presence and broad adoption.",
+          "subCategories": []
+        },
+        {
+          "id": "LAYER1",
+          "name": "Layer 1",
+          "description": "Layer 1 cryptos are the foundational blockchain networks that process and validate transactions, providing the core infrastructure for decentralized applications.",
+          "subCategories": []
+        }
+      ],
+      "score": "104010661723"
+    },
+    {
+      "symbol": "BNT",
+      "displaySymbol": "BNT",
+      "name": "Bancor",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C.png",
+        "websiteUrl": "https://www.bancor.network/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "MercuryWithdrawals",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "33303310"
+    },
+    {
+      "symbol": "BOME.SOL",
+      "displaySymbol": "BOME",
+      "name": "BOOK OF MEME",
+      "type": {
+        "parentChain": "SOL",
+        "address": "ukHH6c7mMyiWCf1b9pnWe25TSpkDDt3H5pQZgZ74J82",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/solana/ukHH6c7mMyiWCf1b9pnWe25TSpkDDt3H5pQZgZ74J82.png",
+        "websiteUrl": "https://llwapirxnupqu7xw2fspfidormcfar7ek2yp65nu7k5opjwhdywq.arweave.net/WuwHojdtHwp-9tFk8qBuiwRQR-RWsP91tPq656bHHi0",
+        "name": "SOLANA_TOKEN"
+      },
+      "precision": 6,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "73081602"
+    },
+    {
+      "symbol": "BONK.SOL",
+      "displaySymbol": "Bonk",
+      "name": "Bonk",
+      "type": {
+        "parentChain": "SOL",
+        "address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/solana/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263.png",
+        "websiteUrl": "https://www.bonkcoin.com",
+        "name": "SOLANA_TOKEN"
+      },
+      "precision": 5,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "MercuryWithdrawals",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "MEME",
+          "name": "Meme",
+          "description": "Memecoins are cryptocurrencies inspired by internet memes or jokes, often characterized by their viral appeal and community-driven value.",
+          "subCategories": []
+        }
+      ],
+      "score": "329179936"
+    },
+    {
+      "symbol": "BRETT.BASEETH",
+      "displaySymbol": "BRETT",
+      "name": "Brett",
+      "type": {
+        "parentChain": "BASEETH",
+        "erc20Address": "0x532f27101965dd16442E59d40670FaF5eBB142E4",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/base/0x532f27101965dd16442E59d40670FaF5eBB142E4.png",
+        "websiteUrl": "https://www.basedbrett.com/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "MEME",
+          "name": "Meme",
+          "description": "Memecoins are cryptocurrencies inspired by internet memes or jokes, often characterized by their viral appeal and community-driven value.",
+          "subCategories": []
+        }
+      ],
+      "score": "55394592"
+    },
+    {
+      "symbol": "BSV",
+      "displaySymbol": "BSV",
+      "name": "Bitcoin Satoshi Vision",
+      "type": {
+        "minimumOnChainConfirmations": 0,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/bitcoinsv.png",
+        "name": "COIN"
+      },
+      "precision": 8,
+      "products": [],
+      "categories": [],
+      "score": "429194070"
+    },
+    {
+      "symbol": "BTC",
+      "displaySymbol": "BTC",
+      "name": "Bitcoin",
+      "type": {
+        "minimumOnChainConfirmations": 2,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/bitcoin.png",
+        "websiteUrl": "https://bitcoin.org",
+        "name": "COIN"
+      },
+      "precision": 8,
+      "products": [
+        "MercuryWithdrawals",
+        "InterestBalance",
+        "PrivateKey",
+        "EarnCC1W",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance"
+      ],
+      "categories": [
+        {
+          "id": "POPULAR",
+          "name": "Popular",
+          "description": "Popular cryptos are widely recognized and frequently traded cryptocurrencies known for their significant market presence and broad adoption.",
+          "subCategories": []
+        },
+        {
+          "id": "LAYER1",
+          "name": "Layer 1",
+          "description": "Layer 1 cryptos are the foundational blockchain networks that process and validate transactions, providing the core infrastructure for decentralized applications.",
+          "subCategories": []
+        }
+      ],
+      "score": "1695093717434"
+    },
+    {
+      "symbol": "BUSD.BNB",
+      "displaySymbol": "BUSD",
+      "name": "BNB pegged BUSD",
+      "type": {
+        "parentChain": "BNB",
+        "erc20Address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/smartchain/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png",
+        "websiteUrl": "https://www.binance.com/en",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "283155877"
+    },
+    {
+      "symbol": "AERO.BASEETH",
+      "displaySymbol": "AERO",
+      "name": "Aerodrome",
+      "type": {
+        "parentChain": "BASEETH",
+        "erc20Address": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/base/0x940181a94A35A4569E4529A3CDfB74e38FD98631.png",
+        "websiteUrl": "https://aerodrome.finance/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "CWDeposit",
+        "CWBalance",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "704912008"
+    },
+    {
+      "symbol": "ASTER.BNB",
+      "displaySymbol": "ASTER",
+      "name": "ASTER",
+      "type": {
+        "parentChain": "BNB",
+        "erc20Address": "0x000Ae314E2A2172a039B26378814C252734f556A",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/smartchain/0x000Ae314E2A2172a039B26378814C252734f556A.png",
+        "websiteUrl": "https://www.asterdex.com/en",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "CWBalance",
+        "CWWithdrawal",
+        "CWDeposit",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "LAYER1",
+          "name": "Layer 1",
+          "description": "Layer 1 cryptos are the foundational blockchain networks that process and validate transactions, providing the core infrastructure for decentralized applications.",
+          "subCategories": []
+        },
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "1920617863"
+    },
+    {
+      "symbol": "CAKE.BNB",
+      "displaySymbol": "CAKE",
+      "name": "PancakeSwap Token",
+      "type": {
+        "parentChain": "BNB",
+        "erc20Address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/smartchain/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png",
+        "websiteUrl": "https://pancakeswap.finance/affiliates-program",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "InterestBalance",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "874718947"
+    },
+    {
+      "symbol": "CELO",
+      "displaySymbol": "CELO",
+      "name": "Celo",
+      "type": {
+        "minimumOnChainConfirmations": 30,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/celo.png",
+        "name": "COIN"
+      },
+      "precision": 18,
+      "products": [
+        "MercuryWithdrawals",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "InterestBalance",
+        "CustodialWalletBalance"
+      ],
+      "categories": [
+        {
+          "id": "LAYER2",
+          "name": "Layer 2 or Layer 3",
+          "description": "Layer 2 and Layer 3 cryptos are scaling solutions built on top of blockchains to improve transaction speed, reduce costs, and enhance network efficiency. Layer 2s operate directly above Layer 1s, while Layer 3s build on top of Layer 2s to provide even greater scalability, customization, and application-specific functionality.",
+          "subCategories": []
+        }
+      ],
+      "score": "56012172"
+    },
+    {
+      "symbol": "CEUR",
+      "displaySymbol": "cEUR",
+      "name": "Celo Euro",
+      "type": {
+        "parentChain": "CELO",
+        "erc20Address": "0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/celo/0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73.png",
+        "websiteUrl": "https://celo.org/",
+        "name": "CELO_TOKEN"
+      },
+      "precision": 18,
+      "products": [],
+      "categories": [
+        {
+          "id": "STABLECOINS",
+          "name": "Stablecoins",
+          "description": "Stablecoins are cryptocurrencies designed to maintain a stable value, typically pegged to a fiat currency such as the US Dollar or Euro.",
+          "subCategories": []
+        }
+      ],
+      "score": "1557884"
+    },
+    {
+      "symbol": "CHZ",
+      "displaySymbol": "CHZ",
+      "name": "Chiliz",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x3506424F91fD33084466F402d5D97f05F8e3b4AF",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x3506424F91fD33084466F402d5D97f05F8e3b4AF.png",
+        "websiteUrl": "https://www.chiliz.com/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "MercuryWithdrawals",
+        "InterestBalance",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "173165230"
+    },
+    {
+      "symbol": "CLOUT",
+      "displaySymbol": "DESO",
+      "name": "DeSo",
+      "type": {
+        "minimumOnChainConfirmations": 4,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/bitclout.png",
+        "name": "COIN"
+      },
+      "precision": 9,
+      "products": [
+        "MercuryWithdrawals",
+        "InterestBalance",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance"
+      ],
+      "categories": [],
+      "score": "11027277"
+    },
+    {
+      "symbol": "COMP",
+      "displaySymbol": "COMP",
+      "name": "Compound",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xc00e94Cb662C3520282E6f5717214004A7f26888.png",
+        "websiteUrl": "https://compound.finance/governance/comp",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "MercuryWithdrawals",
+        "InterestBalance",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "236783884"
+    },
+    {
+      "symbol": "CRV",
+      "displaySymbol": "CRV",
+      "name": "Curve DAO Token",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xD533a949740bb3306d119CC777fa900bA034cd52.png",
+        "websiteUrl": "https://www.curve.fi/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "InterestBalance",
+        "PrivateKey",
+        "MercuryWithdrawals",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance"
+      ],
+      "categories": [
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "542328057"
+    },
+    {
+      "symbol": "CTSI",
+      "displaySymbol": "CTSI",
+      "name": "Cartesi Token",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D.png",
+        "websiteUrl": "https://cartesi.io/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "27898999"
+    },
+    {
+      "symbol": "CVX",
+      "displaySymbol": "CVX",
+      "name": "Convex Token",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B.png",
+        "websiteUrl": "https://www.convexfinance.com/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "192151359"
+    },
+    {
+      "symbol": "CUSD",
+      "displaySymbol": "cUSD",
+      "name": "Celo Dollar",
+      "type": {
+        "parentChain": "CELO",
+        "erc20Address": "0x765DE816845861e75A25fCA122bb6898B8B1282a",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/celo/0x765DE816845861e75A25fCA122bb6898B8B1282a.png",
+        "websiteUrl": "https://celo.org/",
+        "name": "CELO_TOKEN"
+      },
+      "precision": 18,
+      "products": [],
+      "categories": [],
+      "score": "14016017"
+    },
+    {
+      "symbol": "CVC",
+      "displaySymbol": "CVC",
+      "name": "Civic",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x41e5560054824eA6B0732E656E3Ad64E20e94E45",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x41e5560054824eA6B0732E656E3Ad64E20e94E45.png",
+        "websiteUrl": "https://www.civic.com/",
+        "name": "ERC20"
+      },
+      "precision": 8,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "29815129"
+    },
+    {
+      "symbol": "DAI",
+      "displaySymbol": "DAI",
+      "name": "Dai",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x6B175474E89094C44Da98b954EedeAC495271d0F.png",
+        "websiteUrl": "https://makerdao.com/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "STABLECOINS",
+          "name": "Stablecoins",
+          "description": "Stablecoins are cryptocurrencies designed to maintain a stable value, typically pegged to a fiat currency such as the US Dollar or Euro.",
+          "subCategories": []
+        }
+      ],
+      "score": "4577569212"
+    },
+    {
+      "symbol": "DASH",
+      "displaySymbol": "DASH",
+      "name": "Dash",
+      "type": {
+        "minimumOnChainConfirmations": 0,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/dash.png",
+        "websiteUrl": "https://dash.org/",
+        "name": "COIN"
+      },
+      "precision": 8,
+      "products": [],
+      "categories": [],
+      "score": "800909496"
+    },
+    {
+      "symbol": "DCR",
+      "displaySymbol": "DCR",
+      "name": "Decred",
+      "type": {
+        "minimumOnChainConfirmations": 0,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/decred.png",
+        "websiteUrl": "https://decred.org",
+        "name": "COIN"
+      },
+      "precision": 8,
+      "products": [],
+      "categories": [],
+      "score": "322113527"
+    },
+    {
+      "symbol": "DEGEN.BASEETH",
+      "displaySymbol": "DEGEN",
+      "name": "Degen",
+      "type": {
+        "parentChain": "BASEETH",
+        "erc20Address": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/base/0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed.png",
+        "websiteUrl": "https://www.degen.tips/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "MEME",
+          "name": "Meme",
+          "description": "Memecoins are cryptocurrencies inspired by internet memes or jokes, often characterized by their viral appeal and community-driven value.",
+          "subCategories": []
+        }
+      ],
+      "score": "38503057"
+    },
+    {
+      "symbol": "DGLD",
+      "displaySymbol": "DGLD",
+      "name": "Digital Gold",
+      "type": {
+        "minimumOnChainConfirmations": 1,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/digitalgold.png",
+        "name": "COIN"
+      },
+      "precision": 8,
+      "products": [],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "DGLDN",
+      "displaySymbol": "DGLDN",
+      "name": "Digital Gold",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xA9299C296d7830A99414d1E5546F5171fA01E9c8",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xA9299C296d7830A99414d1E5546F5171fA01E9c8.png",
+        "websiteUrl": "https://dgld.ch/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "MercuryWithdrawals",
+        "CWBalance",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "10303680"
+    },
+    {
+      "symbol": "DNT",
+      "displaySymbol": "DNT",
+      "name": "district0x Network Token",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x0AbdAce70D3790235af448C88547603b945604ea",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x0AbdAce70D3790235af448C88547603b945604ea.png",
+        "websiteUrl": "https://district0x.io/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "7412618"
+    },
+    {
+      "symbol": "DOGE",
+      "displaySymbol": "DOGE",
+      "name": "Dogecoin",
+      "type": {
+        "minimumOnChainConfirmations": 40,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/doge.png",
+        "websiteUrl": "http://dogecoin.com",
+        "name": "COIN"
+      },
+      "precision": 8,
+      "products": [
+        "MercuryWithdrawals",
+        "InterestBalance",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance"
+      ],
+      "categories": [
+        {
+          "id": "LAYER1",
+          "name": "Layer 1",
+          "description": "Layer 1 cryptos are the foundational blockchain networks that process and validate transactions, providing the core infrastructure for decentralized applications.",
+          "subCategories": []
+        },
+        {
+          "id": "MEME",
+          "name": "Meme",
+          "description": "Memecoins are cryptocurrencies inspired by internet memes or jokes, often characterized by their viral appeal and community-driven value.",
+          "subCategories": []
+        }
+      ],
+      "score": "14463794973"
+    },
+    {
+      "symbol": "DOOD.SOL",
+      "displaySymbol": "DOOD",
+      "name": "Doodles",
+      "type": {
+        "parentChain": "SOL",
+        "address": "DvjbEsdca43oQcw2h3HW1CT7N3x5vRcr3QrvTUHnXvgV",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/solana/DvjbEsdca43oQcw2h3HW1CT7N3x5vRcr3QrvTUHnXvgV.png",
+        "websiteUrl": "https://doodles.com",
+        "name": "SOLANA_TOKEN"
+      },
+      "precision": 9,
+      "products": [
+        "InterestBalance",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "MEME",
+          "name": "Meme",
+          "description": "Memecoins are cryptocurrencies inspired by internet memes or jokes, often characterized by their viral appeal and community-driven value.",
+          "subCategories": []
+        }
+      ],
+      "score": "14083266"
+    },
+    {
+      "symbol": "DOT",
+      "displaySymbol": "DOT",
+      "name": "Polkadot",
+      "type": {
+        "minimumOnChainConfirmations": 1,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/polkadot.png",
+        "websiteUrl": "https://polkadot.network",
+        "name": "COIN"
+      },
+      "precision": 10,
+      "products": [
+        "MercuryWithdrawals",
+        "InterestBalance",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance"
+      ],
+      "categories": [
+        {
+          "id": "LAYER1",
+          "name": "Layer 1",
+          "description": "Layer 1 cryptos are the foundational blockchain networks that process and validate transactions, providing the core infrastructure for decentralized applications.",
+          "subCategories": []
+        }
+      ],
+      "score": "1991569979"
+    },
+    {
+      "symbol": "EFI",
+      "displaySymbol": "EFI",
+      "name": "Efinity Token",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x656C00e1BcD96f256F224AD9112FF426Ef053733",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x656C00e1BcD96f256F224AD9112FF426Ef053733.png",
+        "websiteUrl": "https://efinity.io",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey",
+        "MercuryWithdrawals",
+        "CWBalance",
+        "CWWithdrawal",
+        "CWDeposit",
+        "CustodialWalletBalance"
+      ],
+      "categories": [],
+      "score": "172117"
+    },
+    {
+      "symbol": "ELIZAOS.SOL",
+      "displaySymbol": "ELIZAOS",
+      "name": "ElizaOS",
+      "type": {
+        "parentChain": "SOL",
+        "address": "DuMbhu7mvQvqQHGcnikDgb4XegXJRyhUBfdU22uELiZA",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/solana/DuMbhu7mvQvqQHGcnikDgb4XegXJRyhUBfdU22uELiZA.png",
+        "websiteUrl": "https://farcaster.xyz/elizaos",
+        "name": "SOLANA_TOKEN"
+      },
+      "precision": 9,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "AI",
+          "name": "AI",
+          "description": "AI tokens are cryptocurrencies that fund AI projects, enable transactions, reward data sharing, or support machine learning, bridging blockchain and AI.",
+          "subCategories": []
+        }
+      ],
+      "score": "1202821"
+    },
+    {
+      "symbol": "ENA",
+      "displaySymbol": "ENA",
+      "name": "Ethena",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x57e114B691Db790C35207b2e685D4A43181e6061",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x57e114B691Db790C35207b2e685D4A43181e6061.png",
+        "websiteUrl": "https://www.ethena.fi/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "InterestBalance",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "2259679049"
+    },
+    {
+      "symbol": "ENJ",
+      "displaySymbol": "ENJ",
+      "name": "Enjin Coin",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c.png",
+        "websiteUrl": "https://enjin.io/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "LAYER1",
+          "name": "Layer 1",
+          "description": "Layer 1 cryptos are the foundational blockchain networks that process and validate transactions, providing the core infrastructure for decentralized applications.",
+          "subCategories": []
+        }
+      ],
+      "score": "56170350"
+    },
+    {
+      "symbol": "EOS",
+      "displaySymbol": "EOS",
+      "name": "EOS",
+      "type": {
+        "minimumOnChainConfirmations": 1,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/eos.png",
+        "websiteUrl": "https://eos.io",
+        "name": "COIN"
+      },
+      "precision": 4,
+      "products": [],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "ZKETH",
+      "displaySymbol": "ETH",
+      "name": "Ethereum",
+      "type": {
+        "minimumOnChainConfirmations": 0,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/zksync.png",
+        "websiteUrl": "https://zksync.io/",
+        "name": "COIN"
+      },
+      "precision": 18,
+      "products": [],
+      "categories": [],
+      "score": "323513228543"
+    },
+    {
+      "symbol": "ETC",
+      "displaySymbol": "ETC",
+      "name": "Ethereum Classic",
+      "type": {
+        "minimumOnChainConfirmations": 3000,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/classic.png",
+        "websiteUrl": "https://ethereumclassic.org/",
+        "name": "COIN"
+      },
+      "precision": 18,
+      "products": [
+        "InterestBalance",
+        "MercuryWithdrawals",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance"
+      ],
+      "categories": [
+        {
+          "id": "LAYER1",
+          "name": "Layer 1",
+          "description": "Layer 1 cryptos are the foundational blockchain networks that process and validate transactions, providing the core infrastructure for decentralized applications.",
+          "subCategories": []
+        }
+      ],
+      "score": "1494529069"
+    },
+    {
+      "symbol": "ETH",
+      "displaySymbol": "ETH",
+      "name": "Ethereum",
+      "type": {
+        "minimumOnChainConfirmations": 64,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/ethereum.png",
+        "websiteUrl": "https://ethereum.org/",
+        "name": "COIN"
+      },
+      "precision": 18,
+      "products": [
+        "MercuryWithdrawals",
+        "InterestBalance",
+        "PrivateKey",
+        "Staking",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "EarnCC1W",
+        "CustodialWalletBalance"
+      ],
+      "categories": [
+        {
+          "id": "POPULAR",
+          "name": "Popular",
+          "description": "Popular cryptos are widely recognized and frequently traded cryptocurrencies known for their significant market presence and broad adoption.",
+          "subCategories": []
+        },
+        {
+          "id": "LAYER1",
+          "name": "Layer 1",
+          "description": "Layer 1 cryptos are the foundational blockchain networks that process and validate transactions, providing the core infrastructure for decentralized applications.",
+          "subCategories": []
+        }
+      ],
+      "score": "323513228543"
+    },
+    {
+      "symbol": "FARM",
+      "displaySymbol": "FARM",
+      "name": "Harvest Finance",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xa0246c9032bC3A600820415aE600c6388619A14D",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xa0246c9032bC3A600820415aE600c6388619A14D.png",
+        "websiteUrl": "https://harvest.finance/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "4525123"
+    },
+    {
+      "symbol": "FARTCOIN.SOL",
+      "displaySymbol": "FARTCOIN",
+      "name": "Fartcoin",
+      "type": {
+        "parentChain": "SOL",
+        "address": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/solana/9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump.png",
+        "websiteUrl": "https://www.infinitebackrooms.com/dreams/conversation-1721540624-scenario-terminal-of-truths-txt",
+        "name": "SOLANA_TOKEN"
+      },
+      "precision": 6,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "MEME",
+          "name": "Meme",
+          "description": "Memecoins are cryptocurrencies inspired by internet memes or jokes, often characterized by their viral appeal and community-driven value.",
+          "subCategories": []
+        }
+      ],
+      "score": "188652238"
+    },
+    {
+      "symbol": "FEI",
+      "displaySymbol": "FEI",
+      "name": "Fei USD",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x956F47F50A910163D8BF957Cf5846D573E7f87CA",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x956F47F50A910163D8BF957Cf5846D573E7f87CA.png",
+        "websiteUrl": "https://fei.money/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "3704475"
+    },
+    {
+      "symbol": "FIL",
+      "displaySymbol": "FIL",
+      "name": "Filecoin",
+      "type": {
+        "minimumOnChainConfirmations": 0,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/filecoin.png",
+        "websiteUrl": "https://filecoin.io",
+        "name": "COIN"
+      },
+      "precision": 18,
+      "products": [],
+      "categories": [],
+      "score": "842183445"
+    },
+    {
+      "symbol": "FLOKI",
+      "displaySymbol": "FLOKI",
+      "name": "FLOKI",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E.png",
+        "websiteUrl": "https://www.floki.com/",
+        "name": "ERC20"
+      },
+      "precision": 9,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "MEME",
+          "name": "Meme",
+          "description": "Memecoins are cryptocurrencies inspired by internet memes or jokes, often characterized by their viral appeal and community-driven value.",
+          "subCategories": []
+        }
+      ],
+      "score": "274644663"
+    },
+    {
+      "symbol": "FLOW",
+      "displaySymbol": "FLOW",
+      "name": "Flow Protocol",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xC6e64729931f60D2c8Bc70A27D66D9E0c28D1BF9",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xC6e64729931f60D2c8Bc70A27D66D9E0c28D1BF9.png",
+        "websiteUrl": "https://flowprotocol.io",
+        "name": "ERC20"
+      },
+      "precision": 9,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "FOAM",
+      "displaySymbol": "FOAM",
+      "name": "FOAM Token",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x4946Fcea7C692606e8908002e55A582af44AC121",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x4946Fcea7C692606e8908002e55A582af44AC121.png",
+        "websiteUrl": "https://www.foam.space/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "73972"
+    },
+    {
+      "symbol": "FORTH",
+      "displaySymbol": "FORTH",
+      "name": "Ampleforth Governance",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x77FbA179C79De5B7653F68b5039Af940AdA60ce0",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x77FbA179C79De5B7653F68b5039Af940AdA60ce0.png",
+        "websiteUrl": "https://www.ampleforth.org/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "3405923"
+    },
+    {
+      "symbol": "GALA",
+      "displaySymbol": "GALA",
+      "name": "Gala",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xd1d2Eb1B1e90B638588728b4130137D262C87cae",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xd1d2Eb1B1e90B638588728b4130137D262C87cae.png",
+        "websiteUrl": "https://gala.com/",
+        "name": "ERC20"
+      },
+      "precision": 8,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "InterestBalance",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "104535713"
+    },
+    {
+      "symbol": "GHO",
+      "displaySymbol": "GHO",
+      "name": "Gho",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f.png",
+        "websiteUrl": "https://gho.xyz/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "698194886"
+    },
+    {
+      "symbol": "GIGA.SOL",
+      "displaySymbol": "GIGA",
+      "name": "GIGACHAD",
+      "type": {
+        "parentChain": "SOL",
+        "address": "63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/solana/63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9.png",
+        "websiteUrl": "https://www.gigachad.fitness/",
+        "name": "SOLANA_TOKEN"
+      },
+      "precision": 5,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "MEME",
+          "name": "Meme",
+          "description": "Memecoins are cryptocurrencies inspired by internet memes or jokes, often characterized by their viral appeal and community-driven value.",
+          "subCategories": []
+        }
+      ],
+      "score": "22688836"
+    },
+    {
+      "symbol": "PYTH.SOL",
+      "displaySymbol": "PYTH",
+      "name": "Pyth Network",
+      "type": {
+        "parentChain": "SOL",
+        "address": "HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/solana/HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3.png",
+        "websiteUrl": "https://pyth.network/",
+        "name": "SOLANA_TOKEN"
+      },
+      "precision": 6,
+      "products": [
+        "CWBalance",
+        "CWWithdrawal",
+        "CWDeposit",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "533401476"
+    },
+    {
+      "symbol": "GOAT.SOL",
+      "displaySymbol": "GOAT",
+      "name": "Goatseus Maximus",
+      "type": {
+        "parentChain": "SOL",
+        "address": "CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/solana/CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump.png",
+        "websiteUrl": "https://goatchan.xyz/",
+        "name": "SOLANA_TOKEN"
+      },
+      "precision": 6,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "MEME",
+          "name": "Meme",
+          "description": "Memecoins are cryptocurrencies inspired by internet memes or jokes, often characterized by their viral appeal and community-driven value.",
+          "subCategories": []
+        }
+      ],
+      "score": "19526063"
+    },
+    {
+      "symbol": "GRT",
+      "displaySymbol": "GRT",
+      "name": "The Graph",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xc944E90C64B2c07662A292be6244BDf05Cda44a7.png",
+        "websiteUrl": "https://thegraph.com/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "MercuryWithdrawals",
+        "PrivateKey",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance"
+      ],
+      "categories": [],
+      "score": "289917319"
+    },
+    {
+      "symbol": "GTC",
+      "displaySymbol": "GTC",
+      "name": "Gitcoin",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F.png",
+        "websiteUrl": "https://gitcoin.co/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "7437316"
+    },
+    {
+      "symbol": "GUSD",
+      "displaySymbol": "GUSD",
+      "name": "Gemini dollar",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd.png",
+        "websiteUrl": "https://gemini.com/dollar/",
+        "name": "ERC20"
+      },
+      "precision": 2,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "39171242"
+    },
+    {
+      "symbol": "HEX",
+      "displaySymbol": "HEX",
+      "name": "HEX",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39.png",
+        "websiteUrl": "https://hex.com",
+        "name": "ERC20"
+      },
+      "precision": 8,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "HT",
+      "displaySymbol": "HT",
+      "name": "Huobi Token",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x6f259637dcD74C767781E37Bc6133cd6A68aa161",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x6f259637dcD74C767781E37Bc6133cd6A68aa161.png",
+        "websiteUrl": "https://www.huobi.com/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "16707054"
+    },
+    {
+      "symbol": "HYPE",
+      "displaySymbol": "HYPE",
+      "name": "Hyperliquid",
+      "type": {
+        "minimumOnChainConfirmations": 0,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/hyperliquid.png",
+        "websiteUrl": "https://app.hyperliquid.xyz/",
+        "name": "COIN"
+      },
+      "precision": 18,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "InterestBalance",
+        "CustodialWalletBalance"
+      ],
+      "categories": [
+        {
+          "id": "LAYER1",
+          "name": "Layer 1",
+          "description": "Layer 1 cryptos are the foundational blockchain networks that process and validate transactions, providing the core infrastructure for decentralized applications.",
+          "subCategories": []
+        },
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "20719829699"
+    },
+    {
+      "symbol": "INJ",
+      "displaySymbol": "INJ",
+      "name": "Injective",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30.png",
+        "websiteUrl": "https://injective.com",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "LAYER1",
+          "name": "Layer 1",
+          "description": "Layer 1 cryptos are the foundational blockchain networks that process and validate transactions, providing the core infrastructure for decentralized applications.",
+          "subCategories": []
+        },
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "785844196"
+    },
+    {
+      "symbol": "INJ.BNB",
+      "displaySymbol": "INJ",
+      "name": "Injective",
+      "type": {
+        "parentChain": "BNB",
+        "erc20Address": "0xa2B726B1145A4773F68593CF171187d8EBe4d495",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/smartchain/0xa2B726B1145A4773F68593CF171187d8EBe4d495.png",
+        "websiteUrl": "https://injective.com",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "LAYER1",
+          "name": "Layer 1",
+          "description": "Layer 1 cryptos are the foundational blockchain networks that process and validate transactions, providing the core infrastructure for decentralized applications.",
+          "subCategories": []
+        },
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "785844196"
+    },
+    {
+      "symbol": "JTO.SOL",
+      "displaySymbol": "JTO",
+      "name": "JITO",
+      "type": {
+        "parentChain": "SOL",
+        "address": "jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/solana/jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL.png",
+        "websiteUrl": "https://www.jito.network/",
+        "name": "SOLANA_TOKEN"
+      },
+      "precision": 9,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "237974638"
+    },
+    {
+      "symbol": "JUP.SOL",
+      "displaySymbol": "JUP",
+      "name": "Jupiter",
+      "type": {
+        "parentChain": "SOL",
+        "address": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/solana/JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN.png",
+        "websiteUrl": "https://jup.ag/",
+        "name": "SOLANA_TOKEN"
+      },
+      "precision": 6,
+      "products": [
+        "CWDeposit",
+        "CWWithdrawal",
+        "CWBalance",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "1010165806"
+    },
+    {
+      "symbol": "KAMA.SOL",
+      "displaySymbol": "KAMA",
+      "name": "Kamala Horris",
+      "type": {
+        "parentChain": "SOL",
+        "address": "HnKkzR1YtFbUUxM6g3iVRS2RY68KHhGV7bNdfF1GCsJB",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/solana/HnKkzR1YtFbUUxM6g3iVRS2RY68KHhGV7bNdfF1GCsJB.png",
+        "websiteUrl": "https://www.kama.lol/",
+        "name": "SOLANA_TOKEN"
+      },
+      "precision": 9,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "253459"
+    },
+    {
+      "symbol": "KAVA",
+      "displaySymbol": "KAVA",
+      "name": "Kava",
+      "type": {
+        "minimumOnChainConfirmations": 0,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/kava.png",
+        "websiteUrl": "https://kava.io",
+        "name": "COIN"
+      },
+      "precision": 6,
+      "products": [],
+      "categories": [],
+      "score": "76151526"
+    },
+    {
+      "symbol": "KEEP",
+      "displaySymbol": "KEEP",
+      "name": "KEEP Token",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC.png",
+        "websiteUrl": "https://keep.network/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "25663032"
+    },
+    {
+      "symbol": "KIN",
+      "displaySymbol": "KIN",
+      "name": "Kin",
+      "type": {
+        "minimumOnChainConfirmations": 0,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/kin.png",
+        "websiteUrl": "https://kin.org",
+        "name": "COIN"
+      },
+      "precision": 5,
+      "products": [],
+      "categories": [],
+      "score": "3462196"
+    },
+    {
+      "symbol": "KNC",
+      "displaySymbol": "KNC",
+      "name": "Kyber Network",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202.png",
+        "websiteUrl": "https://kyber.network/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "30396972"
+    },
+    {
+      "symbol": "LDO",
+      "displaySymbol": "LDO",
+      "name": "Lido DAO",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32.png",
+        "websiteUrl": "https://stake.lido.fi/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "365771304"
+    },
+    {
+      "symbol": "LEND",
+      "displaySymbol": "LEND",
+      "name": "Aave (old)",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x80fB784B7eD66730e8b1DBd9820aFD29931aab03.png",
+        "websiteUrl": "https://aave.com/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "MercuryWithdrawals",
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "LEO",
+      "displaySymbol": "LEO",
+      "name": "UNUS SED LEO",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x2AF5D2aD76741191D15Dfe7bF6aC92d4Bd912Ca3",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x2AF5D2aD76741191D15Dfe7bF6aC92d4Bd912Ca3.png",
+        "websiteUrl": "https://www.bitfinex.com/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "8180687209"
+    },
+    {
+      "symbol": "LINK",
+      "displaySymbol": "LINK",
+      "name": "Chainlink",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x514910771AF9Ca656af840dff83E8264EcF986CA.png",
+        "websiteUrl": "https://chain.link/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "MercuryWithdrawals",
+        "InterestBalance",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "9828873885"
+    },
+    {
+      "symbol": "LOOM",
+      "displaySymbol": "LOOM",
+      "name": "Loom Token",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x42476F744292107e34519F9c357927074Ea3F75D",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x42476F744292107e34519F9c357927074Ea3F75D.png",
+        "websiteUrl": "https://loomx.io/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "141364"
+    },
+    {
+      "symbol": "LPT",
+      "displaySymbol": "LPT",
+      "name": "Livepeer Token",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x58b6A8A3302369DAEc383334672404Ee733aB239",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x58b6A8A3302369DAEc383334672404Ee733aB239.png",
+        "websiteUrl": "https://livepeer.org/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "80430378"
+    },
+    {
+      "symbol": "LRC",
+      "displaySymbol": "LRC",
+      "name": "Loopring",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD.png",
+        "websiteUrl": "https://loopring.org/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "13123272"
+    },
+    {
+      "symbol": "LTC",
+      "displaySymbol": "LTC",
+      "name": "Litecoin",
+      "type": {
+        "minimumOnChainConfirmations": 12,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/litecoin.png",
+        "websiteUrl": "https://litecoin.org/",
+        "name": "COIN"
+      },
+      "precision": 8,
+      "products": [
+        "MercuryWithdrawals",
+        "InterestBalance",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance"
+      ],
+      "categories": [
+        {
+          "id": "LAYER1",
+          "name": "Layer 1",
+          "description": "Layer 1 cryptos are the foundational blockchain networks that process and validate transactions, providing the core infrastructure for decentralized applications.",
+          "subCategories": []
+        }
+      ],
+      "score": "5586745687"
+    },
+    {
+      "symbol": "MANA",
+      "displaySymbol": "MANA",
+      "name": "Decentraland",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942.png",
+        "websiteUrl": "https://decentraland.org/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "178076414"
+    },
+    {
+      "symbol": "MATIC",
+      "displaySymbol": "MATIC",
+      "name": "Matic Token",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0.png",
+        "websiteUrl": "https://polygon.technology/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "MATIC.MATIC",
+      "displaySymbol": "POL",
+      "name": "Polygon",
+      "type": {
+        "minimumOnChainConfirmations": 128,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/polygon.png",
+        "websiteUrl": "https://polygon.technology/solutions/polygon-pos/",
+        "name": "COIN"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "InterestBalance",
+        "MercuryWithdrawals",
+        "CustodialWalletBalance"
+      ],
+      "categories": [
+        {
+          "id": "LAYER1",
+          "name": "Layer 1",
+          "description": "Layer 1 cryptos are the foundational blockchain networks that process and validate transactions, providing the core infrastructure for decentralized applications.",
+          "subCategories": []
+        }
+      ],
+      "score": "1107139029"
+    },
+    {
+      "symbol": "MAVIA",
+      "displaySymbol": "MAVIA",
+      "name": "Heroes of Mavia",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x24fcFC492C1393274B6bcd568ac9e225BEc93584",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x24fcFC492C1393274B6bcd568ac9e225BEc93584.png",
+        "websiteUrl": "https://mavia.com",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "MercuryWithdrawals",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "8441311"
+    },
+    {
+      "symbol": "MEME",
+      "displaySymbol": "MEME",
+      "name": "Memecoin",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xb131f4A55907B10d1F0A50d8ab8FA09EC342cd74",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xb131f4A55907B10d1F0A50d8ab8FA09EC342cd74.png",
+        "websiteUrl": "https://www.memecoin.org/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "MEME",
+          "name": "Meme",
+          "description": "Memecoins are cryptocurrencies inspired by internet memes or jokes, often characterized by their viral appeal and community-driven value.",
+          "subCategories": []
+        }
+      ],
+      "score": "40352662"
+    },
+    {
+      "symbol": "MEW.SOL",
+      "displaySymbol": "MEW",
+      "name": "cat in a dogs world",
+      "type": {
+        "parentChain": "SOL",
+        "address": "MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/solana/MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5.png",
+        "websiteUrl": "https://mew.xyz/",
+        "name": "SOLANA_TOKEN"
+      },
+      "precision": 5,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "44743812"
+    },
+    {
+      "symbol": "MIOTA",
+      "displaySymbol": "MIOTA",
+      "name": "IOTA",
+      "type": {
+        "minimumOnChainConfirmations": 0,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/iota.png",
+        "name": "COIN"
+      },
+      "precision": 15,
+      "products": [],
+      "categories": [],
+      "score": "211566435"
+    },
+    {
+      "symbol": "MIR",
+      "displaySymbol": "MIR",
+      "name": "Mirror Protocol",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x09a3EcAFa817268f77BE1283176B946C4ff2E608",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x09a3EcAFa817268f77BE1283176B946C4ff2E608.png",
+        "websiteUrl": "https://mirror.finance",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "76268"
+    },
+    {
+      "symbol": "MKR",
+      "displaySymbol": "MKR",
+      "name": "Maker",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2.png",
+        "websiteUrl": "https://makerdao.com/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "0"
+    },
+    {
+      "symbol": "MLN",
+      "displaySymbol": "MLN",
+      "name": "Enzyme",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xec67005c4E498Ec7f55E092bd1d35cbC47C91892",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xec67005c4E498Ec7f55E092bd1d35cbC47C91892.png",
+        "websiteUrl": "https://enzyme.finance/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "4992270"
+    },
+    {
+      "symbol": "MOB",
+      "displaySymbol": "MOB",
+      "name": "Mobile Coin",
+      "type": {
+        "minimumOnChainConfirmations": 0,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/mobilecoin.png",
+        "name": "COIN"
+      },
+      "precision": 12,
+      "products": [],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "MOG",
+      "displaySymbol": "MOG",
+      "name": "Mog Coin",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xaaeE1A9723aaDB7afA2810263653A34bA2C21C7a",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xaaeE1A9723aaDB7afA2810263653A34bA2C21C7a.png",
+        "websiteUrl": "https://www.mogcoin.xyz",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "MEME",
+          "name": "Meme",
+          "description": "Memecoins are cryptocurrencies inspired by internet memes or jokes, often characterized by their viral appeal and community-driven value.",
+          "subCategories": []
+        }
+      ],
+      "score": "49386241"
+    },
+    {
+      "symbol": "MORPHO",
+      "displaySymbol": "MORPHO",
+      "name": "Morpho",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x58D97B57BB95320F9a05dC918Aef65434969c2B2",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x58D97B57BB95320F9a05dC918Aef65434969c2B2.png",
+        "websiteUrl": "https://morpho.org/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "CWWithdrawal",
+        "CWBalance",
+        "CWDeposit",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "1986290785"
+    },
+    {
+      "symbol": "NEAR",
+      "displaySymbol": "NEAR",
+      "name": "NEAR Protocol",
+      "type": {
+        "minimumOnChainConfirmations": 100,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/near.png",
+        "websiteUrl": "https://near.org",
+        "name": "COIN"
+      },
+      "precision": 24,
+      "products": [
+        "MercuryWithdrawals",
+        "ServicePrice",
+        "InterestBalance",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance"
+      ],
+      "categories": [
+        {
+          "id": "LAYER1",
+          "name": "Layer 1",
+          "description": "Layer 1 cryptos are the foundational blockchain networks that process and validate transactions, providing the core infrastructure for decentralized applications.",
+          "subCategories": []
+        }
+      ],
+      "score": "6110975412"
+    },
+    {
+      "symbol": "NEIRO",
+      "displaySymbol": "NEIRO",
+      "name": "Neiro",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x812Ba41e071C7b7fA4EBcFB62dF5F45f6fA853Ee",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x812Ba41e071C7b7fA4EBcFB62dF5F45f6fA853Ee.png",
+        "websiteUrl": "https://www.neiroeth.io/",
+        "name": "ERC20"
+      },
+      "precision": 9,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "InterestBalance",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "MEME",
+          "name": "Meme",
+          "description": "Memecoins are cryptocurrencies inspired by internet memes or jokes, often characterized by their viral appeal and community-driven value.",
+          "subCategories": []
+        }
+      ],
+      "score": "38728181"
+    },
+    {
+      "symbol": "NEXO",
+      "displaySymbol": "NEXO",
+      "name": "Nexo",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206.png",
+        "websiteUrl": "https://nexo.com/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "876359318"
+    },
+    {
+      "symbol": "NKN",
+      "displaySymbol": "NKN",
+      "name": "NKN",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x5Cf04716BA20127F1E2297AdDCf4B5035000c9eb",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x5Cf04716BA20127F1E2297AdDCf4B5035000c9eb.png",
+        "websiteUrl": "https://www.nkn.org/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "5466763"
+    },
+    {
+      "symbol": "NOBODY.SOL",
+      "displaySymbol": "Nobody",
+      "name": "Nobody Sausage",
+      "type": {
+        "parentChain": "SOL",
+        "address": "C29ebrgYjYoJPMGPnPSGY1q3mMGk4iDSqnQeQQA7moon",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/solana/C29ebrgYjYoJPMGPnPSGY1q3mMGk4iDSqnQeQQA7moon.png",
+        "websiteUrl": "https://nobodysausage.club/",
+        "name": "SOLANA_TOKEN"
+      },
+      "precision": 9,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "MEME",
+          "name": "Meme",
+          "description": "Memecoins are cryptocurrencies inspired by internet memes or jokes, often characterized by their viral appeal and community-driven value.",
+          "subCategories": []
+        }
+      ],
+      "score": "639191"
+    },
+    {
+      "symbol": "NMR",
+      "displaySymbol": "NMR",
+      "name": "Numeraire",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671.png",
+        "websiteUrl": "https://numer.ai/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        },
+        {
+          "id": "AI",
+          "name": "AI",
+          "description": "AI tokens are cryptocurrencies that fund AI projects, enable transactions, reward data sharing, or support machine learning, bridging blockchain and AI.",
+          "subCategories": []
+        }
+      ],
+      "score": "68341180"
+    },
+    {
+      "symbol": "NU",
+      "displaySymbol": "NU",
+      "name": "NuCypher",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x4fE83213D56308330EC302a8BD641f1d0113A4Cc",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x4fE83213D56308330EC302a8BD641f1d0113A4Cc.png",
+        "websiteUrl": "https://www.nucypher.com",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "OETH",
+      "displaySymbol": "ETH",
+      "name": "Ethereum",
+      "type": {
+        "minimumOnChainConfirmations": 0,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/optimism.png",
+        "websiteUrl": "https://www.optimism.io/",
+        "name": "COIN"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey",
+        "CWWithdrawal",
+        "CWDeposit"
+      ],
+      "categories": [],
+      "score": "323513228541"
+    },
+    {
+      "symbol": "OGN",
+      "displaySymbol": "OGN",
+      "name": "Origin Protocol",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26.png",
+        "websiteUrl": "http://www.originprotocol.com",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "MercuryWithdrawals",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "13486701"
+    },
+    {
+      "symbol": "OKB",
+      "displaySymbol": "OKB",
+      "name": "OKB",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x75231F58b43240C9718Dd58B4967c5114342a86c.png",
+        "websiteUrl": "https://www.okx.com/okb",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "2470543598"
+    },
+    {
+      "symbol": "OMG",
+      "displaySymbol": "OMG",
+      "name": "OMG Network",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07.png",
+        "websiteUrl": "https://omg.network/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "6668249"
+    },
+    {
+      "symbol": "ONDO",
+      "displaySymbol": "ONDO",
+      "name": "Ondo",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3.png",
+        "websiteUrl": "https://ondo.finance/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "2524053815"
+    },
+    {
+      "symbol": "OPAIPON",
+      "displaySymbol": "OPAIPon",
+      "name": "OpenAI Exposure Note",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x1201dCFc7c0b2cE46C7604Bf104234AB42A56Bbd",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x1201dCFc7c0b2cE46C7604Bf104234AB42A56Bbd.png",
+        "websiteUrl": "https://ondo.finance/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "OP.OETH",
+      "displaySymbol": "OP",
+      "name": "Optimism",
+      "type": {
+        "parentChain": "OETH",
+        "erc20Address": "0x4200000000000000000000000000000000000042",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/optimism/0x4200000000000000000000000000000000000042.png",
+        "websiteUrl": "https://app.optimism.io/governance",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "LAYER2",
+          "name": "Layer 2 or Layer 3",
+          "description": "Layer 2 and Layer 3 cryptos are scaling solutions built on top of blockchains to improve transaction speed, reduce costs, and enhance network efficiency. Layer 2s operate directly above Layer 1s, while Layer 3s build on top of Layer 2s to provide even greater scalability, customization, and application-specific functionality.",
+          "subCategories": []
+        }
+      ],
+      "score": "281069744"
+    },
+    {
+      "symbol": "OTRUMP.SOL",
+      "displaySymbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "type": {
+        "parentChain": "SOL",
+        "address": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/solana/6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN.png",
+        "websiteUrl": "https://gettrumpmemes.com/",
+        "name": "SOLANA_TOKEN"
+      },
+      "precision": 6,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "InterestBalance",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "MEME",
+          "name": "Meme",
+          "description": "Memecoins are cryptocurrencies inspired by internet memes or jokes, often characterized by their viral appeal and community-driven value.",
+          "subCategories": []
+        }
+      ],
+      "score": "588947107"
+    },
+    {
+      "symbol": "OXT",
+      "displaySymbol": "OXT",
+      "name": "Orchid",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x4575f41308EC1483f3d399aa9a2826d74Da13Deb.png",
+        "websiteUrl": "https://www.orchid.com/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "10458337"
+    },
+    {
+      "symbol": "PAX",
+      "displaySymbol": "USDP",
+      "name": "Pax Dollar",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x8E870D67F660D95d5be530380D0eC0bd388289E1.png",
+        "websiteUrl": "https://www.paxos.com/standard/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "MercuryWithdrawals",
+        "InterestBalance",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "STABLECOINS",
+          "name": "Stablecoins",
+          "description": "Stablecoins are cryptocurrencies designed to maintain a stable value, typically pegged to a fiat currency such as the US Dollar or Euro.",
+          "subCategories": []
+        }
+      ],
+      "score": "27943973"
+    },
+    {
+      "symbol": "PAXG",
+      "displaySymbol": "PAXG",
+      "name": "PAX Gold",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x45804880De22913dAFE09f4980848ECE6EcbAf78",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x45804880De22913dAFE09f4980848ECE6EcbAf78.png",
+        "websiteUrl": "https://www.paxos.com/paxgold/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "CWDeposit",
+        "CWBalance",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "STABLECOINS",
+          "name": "Stablecoins",
+          "description": "Stablecoins are cryptocurrencies designed to maintain a stable value, typically pegged to a fiat currency such as the US Dollar or Euro.",
+          "subCategories": []
+        }
+      ],
+      "score": "1853873367"
+    },
+    {
+      "symbol": "PENDLE",
+      "displaySymbol": "PENDLE",
+      "name": "Pendle",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x808507121B80c02388fAd14726482e061B8da827",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x808507121B80c02388fAd14726482e061B8da827.png",
+        "websiteUrl": "https://pendle.finance/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "448968154"
+    },
+    {
+      "symbol": "PENGU.SOL",
+      "displaySymbol": "PENGU",
+      "name": "Pudgy Penguins",
+      "type": {
+        "parentChain": "SOL",
+        "address": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/solana/2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv.png",
+        "websiteUrl": "https://pudgypenguins.com/",
+        "name": "SOLANA_TOKEN"
+      },
+      "precision": 6,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "InterestBalance",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "MEME",
+          "name": "Meme",
+          "description": "Memecoins are cryptocurrencies inspired by internet memes or jokes, often characterized by their viral appeal and community-driven value.",
+          "subCategories": []
+        }
+      ],
+      "score": "622912629"
+    },
+    {
+      "symbol": "PEPE",
+      "displaySymbol": "PEPE",
+      "name": "Pepe",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x6982508145454Ce325dDbE47a25d4ec3d2311933.png",
+        "websiteUrl": "https://www.pepe.vip/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "MEME",
+          "name": "Meme",
+          "description": "Memecoins are cryptocurrencies inspired by internet memes or jokes, often characterized by their viral appeal and community-driven value.",
+          "subCategories": []
+        }
+      ],
+      "score": "1837230583"
+    },
+    {
+      "symbol": "PNUT.SOL",
+      "displaySymbol": "PNUT",
+      "name": "Peanut the Squirrel",
+      "type": {
+        "parentChain": "SOL",
+        "address": "2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/solana/2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump.png",
+        "websiteUrl": "https://www.pnutsol.com/",
+        "name": "SOLANA_TOKEN"
+      },
+      "precision": 6,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "InterestBalance",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "MEME",
+          "name": "Meme",
+          "description": "Memecoins are cryptocurrencies inspired by internet memes or jokes, often characterized by their viral appeal and community-driven value.",
+          "subCategories": []
+        }
+      ],
+      "score": "52590490"
+    },
+    {
+      "symbol": "POLY",
+      "displaySymbol": "POLY",
+      "name": "Polymath",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC.png",
+        "websiteUrl": "https://www.polymath.network/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "952764"
+    },
+    {
+      "symbol": "POPCAT.SOL",
+      "displaySymbol": "POPCAT",
+      "name": "POPCAT",
+      "type": {
+        "parentChain": "SOL",
+        "address": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/solana/7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr.png",
+        "websiteUrl": "https://www.popcatsolana.xyz/",
+        "name": "SOLANA_TOKEN"
+      },
+      "precision": 9,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "MEME",
+          "name": "Meme",
+          "description": "Memecoins are cryptocurrencies inspired by internet memes or jokes, often characterized by their viral appeal and community-driven value.",
+          "subCategories": []
+        }
+      ],
+      "score": "55461791"
+    },
+    {
+      "symbol": "POR.CHZ",
+      "displaySymbol": "POR",
+      "name": "Portugal National Team ($POR) - Chiliz",
+      "type": {
+        "parentChain": "CHZ",
+        "erc20Address": "0xFFAD7930B474D45933C93b83A2802204b8787129",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/chiliz/0xFFAD7930B474D45933C93b83A2802204b8787129.png",
+        "websiteUrl": "https://socios.com",
+        "name": "ERC20"
+      },
+      "precision": 0,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "PROPS",
+      "displaySymbol": "PROPS",
+      "name": "Props Token",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x6fe56C0bcdD471359019FcBC48863d6c3e9d4F41",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x6fe56C0bcdD471359019FcBC48863d6c3e9d4F41.png",
+        "websiteUrl": "https://www.propsproject.com/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "PUFFER",
+      "displaySymbol": "PUFFER",
+      "name": "Puffer",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x4d1C297d39C5c1277964D0E3f8Aa901493664530",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x4d1C297d39C5c1277964D0E3f8Aa901493664530.png",
+        "websiteUrl": "https://www.puffer.fi/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "15449168"
+    },
+    {
+      "symbol": "PUMP.SOL",
+      "displaySymbol": "PUMP",
+      "name": "Pump",
+      "type": {
+        "parentChain": "SOL",
+        "address": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/solana/pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn.png",
+        "websiteUrl": "https://pump.fun",
+        "name": "SOLANA_TOKEN"
+      },
+      "precision": 6,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        },
+        {
+          "id": "MEME",
+          "name": "Meme",
+          "description": "Memecoins are cryptocurrencies inspired by internet memes or jokes, often characterized by their viral appeal and community-driven value.",
+          "subCategories": []
+        }
+      ],
+      "score": "1808550560"
+    },
+    {
+      "symbol": "RARE",
+      "displaySymbol": "RARE",
+      "name": "SuperRare",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xba5BDe662c17e2aDFF1075610382B9B691296350",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xba5BDe662c17e2aDFF1075610382B9B691296350.png",
+        "websiteUrl": "https://superrare.com/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey",
+        "MercuryWithdrawals",
+        "CWDeposit",
+        "CWBalance",
+        "CWWithdrawal",
+        "CustodialWalletBalance"
+      ],
+      "categories": [
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "10720931"
+    },
+    {
+      "symbol": "RAY.SOL",
+      "displaySymbol": "RAY",
+      "name": "Raydium",
+      "type": {
+        "parentChain": "SOL",
+        "address": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/solana/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R.png",
+        "websiteUrl": "https://raydium.io/",
+        "name": "SOLANA_TOKEN"
+      },
+      "precision": 6,
+      "products": [
+        "CWBalance",
+        "CWWithdrawal",
+        "CWDeposit",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "533214479"
+    },
+    {
+      "symbol": "REN",
+      "displaySymbol": "REN",
+      "name": "Ren",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x408e41876cCCDC0F92210600ef50372656052a38",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x408e41876cCCDC0F92210600ef50372656052a38.png",
+        "websiteUrl": "https://renprotocol.org/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "2973985"
+    },
+    {
+      "symbol": "RENBTC",
+      "displaySymbol": "renBTC",
+      "name": "renBTC",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D.png",
+        "websiteUrl": "https://renproject.io/",
+        "name": "ERC20"
+      },
+      "precision": 8,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "5121062"
+    },
+    {
+      "symbol": "RLC",
+      "displaySymbol": "RLC",
+      "name": "iExec RLC",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x607F4C5BB672230e8672085532f7e901544a7375",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x607F4C5BB672230e8672085532f7e901544a7375.png",
+        "websiteUrl": "http://iex.ec/",
+        "name": "ERC20"
+      },
+      "precision": 9,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "28613766"
+    },
+    {
+      "symbol": "RUNE",
+      "displaySymbol": "RUNE",
+      "name": "THORChain ETH.RUNE",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x3155BA85D5F96b2d030a4966AF206230e46849cb",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x3155BA85D5F96b2d030a4966AF206230e46849cb.png",
+        "websiteUrl": "https://thorchain.org",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "SHIB",
+      "displaySymbol": "SHIB",
+      "name": "SHIBA INU",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE.png",
+        "websiteUrl": "https://shibatoken.com/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "MEME",
+          "name": "Meme",
+          "description": "Memecoins are cryptocurrencies inspired by internet memes or jokes, often characterized by their viral appeal and community-driven value.",
+          "subCategories": []
+        }
+      ],
+      "score": "3453726242"
+    },
+    {
+      "symbol": "SILK",
+      "displaySymbol": "SILK",
+      "name": "Spider Tanks",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xB045f7f363fE4949954811b113bd56d208c67B23",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xB045f7f363fE4949954811b113bd56d208c67B23.png",
+        "websiteUrl": "https://www.spidertanks.game/",
+        "name": "ERC20"
+      },
+      "precision": 8,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "SKL",
+      "displaySymbol": "SKL",
+      "name": "SKALE Network",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7.png",
+        "websiteUrl": "https://skale.space/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "26821959"
+    },
+    {
+      "symbol": "SNEK.ADA",
+      "displaySymbol": "SNEK",
+      "name": "Snek",
+      "type": {
+        "parentChain": "ADA",
+        "address": "279c909f348e533da5808898f87f9a14bb2c3dfbbacccd631d927a3f-534e454b",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/cardano/279c909f348e533da5808898f87f9a14bb2c3dfbbacccd631d927a3f-534e454b.png",
+        "websiteUrl": "https://www.snek.com",
+        "name": "CARDANO_TOKEN"
+      },
+      "precision": 0,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "46555584"
+    },
+    {
+      "symbol": "NIGHT.ADA",
+      "displaySymbol": "NIGHT",
+      "name": "Midnight",
+      "type": {
+        "parentChain": "ADA",
+        "address": "0691b2fecca1ac4f53cb6dfb00b7013e561d1f34403b957cbb5af1fa-4e49474854",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/cardano/0691b2fecca1ac4f53cb6dfb00b7013e561d1f34403b957cbb5af1fa-4e49474854.png",
+        "websiteUrl": "https://midnight.network/",
+        "name": "CARDANO_TOKEN"
+      },
+      "precision": 6,
+      "products": [
+        "CWBalance",
+        "Staking",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "403547333"
+    },
+    {
+      "symbol": "SNX",
+      "displaySymbol": "SNX",
+      "name": "Synthetix",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F.png",
+        "websiteUrl": "https://www.synthetix.io/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "InterestBalance",
+        "MercuryWithdrawals",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "150564882"
+    },
+    {
+      "symbol": "SOL",
+      "displaySymbol": "SOL",
+      "name": "Solana",
+      "type": {
+        "minimumOnChainConfirmations": 1,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/solana.png",
+        "websiteUrl": "https://solana.com/",
+        "name": "COIN"
+      },
+      "precision": 9,
+      "products": [
+        "InterestBalance",
+        "MercuryWithdrawals",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "PrivateKey",
+        "Staking",
+        "CustodialWalletBalance"
+      ],
+      "categories": [
+        {
+          "id": "POPULAR",
+          "name": "Popular",
+          "description": "Popular cryptos are widely recognized and frequently traded cryptocurrencies known for their significant market presence and broad adoption.",
+          "subCategories": []
+        },
+        {
+          "id": "LAYER1",
+          "name": "Layer 1",
+          "description": "Layer 1 cryptos are the foundational blockchain networks that process and validate transactions, providing the core infrastructure for decentralized applications.",
+          "subCategories": []
+        }
+      ],
+      "score": "68912070629"
+    },
+    {
+      "symbol": "SPACE",
+      "displaySymbol": "SPACE",
+      "name": "Spacecoin",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x87acFA3fD7A6e0d48677D070644D76905C2bDC00",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x87acFA3fD7A6e0d48677D070644D76905C2bDC00.png",
+        "websiteUrl": "https://spacecoin.org",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "30827713"
+    },
+    {
+      "symbol": "SPX",
+      "displaySymbol": "SPX",
+      "name": "SPX6900",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xE0f63A424a4439cBE457D80E4f4b51aD25b2c56C",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xE0f63A424a4439cBE457D80E4f4b51aD25b2c56C.png",
+        "websiteUrl": "https://www.spx6900.com",
+        "name": "ERC20"
+      },
+      "precision": 8,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "MEME",
+          "name": "Meme",
+          "description": "Memecoins are cryptocurrencies inspired by internet memes or jokes, often characterized by their viral appeal and community-driven value.",
+          "subCategories": []
+        }
+      ],
+      "score": "408008254"
+    },
+    {
+      "symbol": "STORJ",
+      "displaySymbol": "STORJ",
+      "name": "Storj",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC.png",
+        "websiteUrl": "https://storj.io",
+        "name": "ERC20"
+      },
+      "precision": 8,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "13563254"
+    },
+    {
+      "symbol": "STRK",
+      "displaySymbol": "STRK",
+      "name": "Starknet",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766.png",
+        "websiteUrl": "https://starknet.io/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "LAYER1",
+          "name": "Layer 1",
+          "description": "Layer 1 cryptos are the foundational blockchain networks that process and validate transactions, providing the core infrastructure for decentralized applications.",
+          "subCategories": []
+        }
+      ],
+      "score": "290828276"
+    },
+    {
+      "symbol": "STX",
+      "displaySymbol": "STX",
+      "name": "Stacks",
+      "type": {
+        "minimumOnChainConfirmations": 8,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/stacks.png",
+        "name": "COIN"
+      },
+      "precision": 6,
+      "products": [
+        "MercuryWithdrawals",
+        "InterestBalance",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "PrivateKey",
+        "CustodialWalletBalance"
+      ],
+      "categories": [
+        {
+          "id": "LAYER2",
+          "name": "Layer 2 or Layer 3",
+          "description": "Layer 2 and Layer 3 cryptos are scaling solutions built on top of blockchains to improve transaction speed, reduce costs, and enhance network efficiency. Layer 2s operate directly above Layer 1s, while Layer 3s build on top of Layer 2s to provide even greater scalability, customization, and application-specific functionality.",
+          "subCategories": []
+        }
+      ],
+      "score": "586222545"
+    },
+    {
+      "symbol": "SUI",
+      "displaySymbol": "SUI",
+      "name": "Sui",
+      "type": {
+        "minimumOnChainConfirmations": 300,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/sui.png",
+        "websiteUrl": "https://sui.io/",
+        "name": "COIN"
+      },
+      "precision": 9,
+      "products": [
+        "CWBalance",
+        "InterestBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance"
+      ],
+      "categories": [
+        {
+          "id": "LAYER1",
+          "name": "Layer 1",
+          "description": "Layer 1 cryptos are the foundational blockchain networks that process and validate transactions, providing the core infrastructure for decentralized applications.",
+          "subCategories": []
+        }
+      ],
+      "score": "4232339602"
+    },
+    {
+      "symbol": "SUSHI",
+      "displaySymbol": "SUSHI",
+      "name": "SushiSwap",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2.png",
+        "websiteUrl": "https://sushi.com/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "MercuryWithdrawals",
+        "InterestBalance",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "72672617"
+    },
+    {
+      "symbol": "SWELL",
+      "displaySymbol": "SWELL",
+      "name": "Swell",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x0a6E7Ba5042B38349e437ec6Db6214AEC7B35676",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x0a6E7Ba5042B38349e437ec6Db6214AEC7B35676.png",
+        "websiteUrl": "https://swellnetwork.io/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "4335654"
+    },
+    {
+      "symbol": "SXP",
+      "displaySymbol": "SXP",
+      "name": "Swipe",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x8CE9137d39326AD0cD6491fb5CC0CbA0e089b6A9",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x8CE9137d39326AD0cD6491fb5CC0CbA0e089b6A9.png",
+        "websiteUrl": "https://solar.org",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "2737495"
+    },
+    {
+      "symbol": "TBTC",
+      "displaySymbol": "TBTC",
+      "name": "tBTC",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x18084fbA666a33d37592fA2633fD49a74DD93a88.png",
+        "websiteUrl": "https://threshold.network/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "352267740"
+    },
+    {
+      "symbol": "TEL",
+      "displaySymbol": "TEL",
+      "name": "Telcoin",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x467Bccd9d29f223BcE8043b84E8C8B282827790F",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x467Bccd9d29f223BcE8043b84E8C8B282827790F.png",
+        "websiteUrl": "http://www.telco.in",
+        "name": "ERC20"
+      },
+      "precision": 2,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "161996145"
+    },
+    {
+      "symbol": "TFUEL",
+      "displaySymbol": "TFUEL",
+      "name": "Theta Fuel",
+      "type": {
+        "minimumOnChainConfirmations": 1,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/tfuel.png",
+        "name": "COIN"
+      },
+      "precision": 18,
+      "products": [
+        "MercuryWithdrawals",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance"
+      ],
+      "categories": [
+        {
+          "id": "LAYER1",
+          "name": "Layer 1",
+          "description": "Layer 1 cryptos are the foundational blockchain networks that process and validate transactions, providing the core infrastructure for decentralized applications.",
+          "subCategories": []
+        },
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "79906677"
+    },
+    {
+      "symbol": "THETA",
+      "displaySymbol": "THETA",
+      "name": "Theta Network",
+      "type": {
+        "minimumOnChainConfirmations": 1,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/theta.png",
+        "name": "COIN"
+      },
+      "precision": 18,
+      "products": [
+        "MercuryWithdrawals",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance"
+      ],
+      "categories": [
+        {
+          "id": "LAYER1",
+          "name": "Layer 1",
+          "description": "Layer 1 cryptos are the foundational blockchain networks that process and validate transactions, providing the core infrastructure for decentralized applications.",
+          "subCategories": []
+        },
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        },
+        {
+          "id": "AI",
+          "name": "AI",
+          "description": "AI tokens are cryptocurrencies that fund AI projects, enable transactions, reward data sharing, or support machine learning, bridging blockchain and AI.",
+          "subCategories": []
+        }
+      ],
+      "score": "221115206"
+    },
+    {
+      "symbol": "TON",
+      "displaySymbol": "GRAM",
+      "name": "Gram (prev. Toncoin)",
+      "type": {
+        "minimumOnChainConfirmations": 5,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/ton.png",
+        "websiteUrl": "https://ton.org",
+        "name": "COIN"
+      },
+      "precision": 9,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "InterestBalance",
+        "CustodialWalletBalance"
+      ],
+      "categories": [
+        {
+          "id": "LAYER1",
+          "name": "Layer 1",
+          "description": "Layer 1 cryptos are the foundational blockchain networks that process and validate transactions, providing the core infrastructure for decentralized applications.",
+          "subCategories": []
+        }
+      ],
+      "score": "3975667604"
+    },
+    {
+      "symbol": "TRB",
+      "displaySymbol": "TRB",
+      "name": "Tellor",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0.png",
+        "websiteUrl": "http://www.tellor.io/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "56583373"
+    },
+    {
+      "symbol": "TRUMP",
+      "displaySymbol": "TRUMP",
+      "name": "MAGA (bridged)",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x6aA56e1D98b3805921C170EB4B3fe7D4Fda6D89b",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x6aA56e1D98b3805921C170EB4B3fe7D4Fda6D89b.png",
+        "websiteUrl": "https://magamemecoin.com/",
+        "name": "ERC20"
+      },
+      "precision": 9,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "MEME",
+          "name": "Meme",
+          "description": "Memecoins are cryptocurrencies inspired by internet memes or jokes, often characterized by their viral appeal and community-driven value.",
+          "subCategories": []
+        }
+      ],
+      "score": "1377649"
+    },
+    {
+      "symbol": "TRX",
+      "displaySymbol": "TRX",
+      "name": "TRON",
+      "type": {
+        "minimumOnChainConfirmations": 300,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/tron.png",
+        "websiteUrl": "https://tron.network/",
+        "name": "COIN"
+      },
+      "precision": 6,
+      "products": [
+        "MercuryWithdrawals",
+        "InterestBalance",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "PrivateKey",
+        "CustodialWalletBalance"
+      ],
+      "categories": [
+        {
+          "id": "LAYER1",
+          "name": "Layer 1",
+          "description": "Layer 1 cryptos are the foundational blockchain networks that process and validate transactions, providing the core infrastructure for decentralized applications.",
+          "subCategories": []
+        }
+      ],
+      "score": "32155511635"
+    },
+    {
+      "symbol": "TURBO",
+      "displaySymbol": "TURBO",
+      "name": "Turbo",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xA35923162C49cF95e6BF26623385eb431ad920D3",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xA35923162C49cF95e6BF26623385eb431ad920D3.png",
+        "websiteUrl": "https://turbotoken.io",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "MEME",
+          "name": "Meme",
+          "description": "Memecoins are cryptocurrencies inspired by internet memes or jokes, often characterized by their viral appeal and community-driven value.",
+          "subCategories": []
+        }
+      ],
+      "score": "71631236"
+    },
+    {
+      "symbol": "TUSD",
+      "displaySymbol": "TUSD",
+      "name": "TrueUSD",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x0000000000085d4780B73119b644AE5ecd22b376",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x0000000000085d4780B73119b644AE5ecd22b376.png",
+        "websiteUrl": "https://tusd.io/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "494373163"
+    },
+    {
+      "symbol": "TWT.BNB",
+      "displaySymbol": "TWT",
+      "name": "Trust Wallet",
+      "type": {
+        "parentChain": "BNB",
+        "erc20Address": "0x4B0F1812e5Df2A09796481Ff14017e6005508003",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/smartchain/0x4B0F1812e5Df2A09796481Ff14017e6005508003.png",
+        "websiteUrl": "https://trustwallet.com/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "CWDeposit",
+        "CWBalance",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "239159596"
+    },
+    {
+      "symbol": "UMA",
+      "displaySymbol": "UMA",
+      "name": "UMA",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828.png",
+        "websiteUrl": "https://uma.xyz/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "InterestBalance",
+        "PrivateKey",
+        "MercuryWithdrawals",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance"
+      ],
+      "categories": [
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "37868851"
+    },
+    {
+      "symbol": "UNI",
+      "displaySymbol": "UNI",
+      "name": "Uniswap",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984.png",
+        "websiteUrl": "https://uniswap.org/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "MercuryWithdrawals",
+        "InterestBalance",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "5672289715"
+    },
+    {
+      "symbol": "USD1",
+      "displaySymbol": "USD1",
+      "name": "USD1",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x8d0D000Ee44948FC98c9B98A4FA4921476f08B0d",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x8d0D000Ee44948FC98c9B98A4FA4921476f08B0d.png",
+        "websiteUrl": "https://worldlibertyfinancial.com/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "STABLECOINS",
+          "name": "Stablecoins",
+          "description": "Stablecoins are cryptocurrencies designed to maintain a stable value, typically pegged to a fiat currency such as the US Dollar or Euro.",
+          "subCategories": []
+        }
+      ],
+      "score": "4405596153"
+    },
+    {
+      "symbol": "USDC",
+      "displaySymbol": "USDC",
+      "name": "USDC",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48.png",
+        "websiteUrl": "https://www.circle.com/en/usdc",
+        "name": "ERC20"
+      },
+      "precision": 6,
+      "products": [
+        "MercuryWithdrawals",
+        "InterestBalance",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "STABLECOINS",
+          "name": "Stablecoins",
+          "description": "Stablecoins are cryptocurrencies designed to maintain a stable value, typically pegged to a fiat currency such as the US Dollar or Euro.",
+          "subCategories": []
+        }
+      ],
+      "score": "75083279421"
+    },
+    {
+      "symbol": "USDC.ARBETH",
+      "displaySymbol": "USDC",
+      "name": "USD Coin",
+      "type": {
+        "parentChain": "ARBETH",
+        "erc20Address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/arbitrum/0xaf88d065e77c8cC2239327C5EDb3A432268e5831.png",
+        "websiteUrl": "https://www.circle.com/en/usdc",
+        "name": "ERC20"
+      },
+      "precision": 6,
+      "products": [
+        "CWWithdrawal",
+        "CWDeposit",
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "75083279417"
+    },
+    {
+      "symbol": "USDC.BASEETH",
+      "displaySymbol": "USDC",
+      "name": "USD Coin",
+      "type": {
+        "parentChain": "BASEETH",
+        "erc20Address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/base/0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913.png",
+        "websiteUrl": "https://www.circle.com/en/usdc",
+        "name": "ERC20"
+      },
+      "precision": 6,
+      "products": [
+        "CWWithdrawal",
+        "CWDeposit",
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "75083279420"
+    },
+    {
+      "symbol": "UNITE.BASEETH",
+      "displaySymbol": "UNITE",
+      "name": "Unite",
+      "type": {
+        "parentChain": "BASEETH",
+        "erc20Address": "0xa6c6ea2e0140849be02a3a34780cf61b766916c5",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/base/0xa6c6ea2e0140849be02a3a34780cf61b766916c5.png",
+        "websiteUrl": "https://unite.io",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "LAYER2",
+          "name": "Layer 2 or Layer 3",
+          "description": "Layer 2 and Layer 3 cryptos are scaling solutions built on top of blockchains to improve transaction speed, reduce costs, and enhance network efficiency. Layer 2s operate directly above Layer 1s, while Layer 3s build on top of Layer 2s to provide even greater scalability, customization, and application-specific functionality.",
+          "subCategories": []
+        }
+      ],
+      "score": "0"
+    },
+    {
+      "symbol": "USDC.MATIC",
+      "displaySymbol": "USDC",
+      "name": "USD Coin",
+      "type": {
+        "parentChain": "MATIC",
+        "erc20Address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/polygon/0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359.png",
+        "websiteUrl": "https://www.circle.com/en/usdc",
+        "name": "ERC20"
+      },
+      "precision": 6,
+      "products": [
+        "CWWithdrawal",
+        "CWDeposit",
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "75083279416"
+    },
+    {
+      "symbol": "USDC.OETH",
+      "displaySymbol": "USDC",
+      "name": "USD Coin",
+      "type": {
+        "parentChain": "OETH",
+        "erc20Address": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/optimism/0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85.png",
+        "websiteUrl": "https://www.circle.com/en/usdc",
+        "name": "ERC20"
+      },
+      "precision": 6,
+      "products": [
+        "CWWithdrawal",
+        "CWDeposit",
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "75083279419"
+    },
+    {
+      "symbol": "USDC.SOL",
+      "displaySymbol": "USDC",
+      "name": "USD Coin",
+      "type": {
+        "parentChain": "SOL",
+        "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/solana/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+        "websiteUrl": "https://www.circle.com/en/usdc",
+        "name": "SOLANA_TOKEN"
+      },
+      "precision": 6,
+      "products": [
+        "CWWithdrawal",
+        "CWDeposit",
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "75083279418"
+    },
+    {
+      "symbol": "USDT",
+      "displaySymbol": "USDT",
+      "name": "USDT",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xdAC17F958D2ee523a2206206994597C13D831ec7.png",
+        "websiteUrl": "https://tether.to/",
+        "name": "ERC20"
+      },
+      "precision": 6,
+      "products": [
+        "MercuryWithdrawals",
+        "InterestBalance",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "STABLECOINS",
+          "name": "Stablecoins",
+          "description": "Stablecoins are cryptocurrencies designed to maintain a stable value, typically pegged to a fiat currency such as the US Dollar or Euro.",
+          "subCategories": []
+        }
+      ],
+      "score": "183720119484"
+    },
+    {
+      "symbol": "USDT.MATIC",
+      "displaySymbol": "USDT",
+      "name": "Tether USD",
+      "type": {
+        "parentChain": "MATIC",
+        "erc20Address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/polygon/0xc2132D05D31c914a87C6611C10748AEb04B58e8F.png",
+        "websiteUrl": "https://portal.polygon.technology/assets",
+        "name": "ERC20"
+      },
+      "precision": 6,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "4063550050"
+    },
+    {
+      "symbol": "USDT.SOL",
+      "displaySymbol": "USDT",
+      "name": "USDT",
+      "type": {
+        "parentChain": "SOL",
+        "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/solana/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.png",
+        "websiteUrl": "https://tether.to/",
+        "name": "SOLANA_TOKEN"
+      },
+      "precision": 6,
+      "products": [
+        "CWWithdrawal",
+        "CWDeposit",
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "183720119482"
+    },
+    {
+      "symbol": "USDT.TON",
+      "displaySymbol": "USDT",
+      "name": "Tether USD",
+      "type": {
+        "parentChain": "TON",
+        "address": "EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ton/EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs.png",
+        "websiteUrl": "https://tether.to/",
+        "name": "JETTON"
+      },
+      "precision": 6,
+      "products": [
+        "CWDeposit",
+        "CWWithdrawal"
+      ],
+      "categories": [],
+      "score": "183720119481"
+    },
+    {
+      "symbol": "USDT.TRX",
+      "displaySymbol": "USDT",
+      "name": "Tether USDT",
+      "type": {
+        "parentChain": "TRX",
+        "erc20Address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/tron/TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t.png",
+        "websiteUrl": "https://tether.to/",
+        "name": "TRC20"
+      },
+      "precision": 6,
+      "products": [
+        "CWWithdrawal",
+        "CWDeposit",
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "VIRTUAL.BASEETH",
+      "displaySymbol": "VIRTUAL",
+      "name": "Virtual Protocol",
+      "type": {
+        "parentChain": "BASEETH",
+        "erc20Address": "0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/base/0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b.png",
+        "websiteUrl": "https://www.virtuals.io/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "InterestBalance",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "AI",
+          "name": "AI",
+          "description": "AI tokens are cryptocurrencies that fund AI projects, enable transactions, reward data sharing, or support machine learning, bridging blockchain and AI.",
+          "subCategories": []
+        }
+      ],
+      "score": "484043262"
+    },
+    {
+      "symbol": "VVV.BASEETH",
+      "displaySymbol": "VVV",
+      "name": "Venice",
+      "type": {
+        "parentChain": "BASEETH",
+        "erc20Address": "0xacfE6019Ed1A7Dc6f7B508C02d1b04ec88cC21bf",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/base/0xacfE6019Ed1A7Dc6f7B508C02d1b04ec88cC21bf.png",
+        "websiteUrl": "https://venice.ai/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "CWWithdrawal",
+        "CWBalance",
+        "CWDeposit",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "AI",
+          "name": "AI",
+          "description": "AI tokens are cryptocurrencies that fund AI projects, enable transactions, reward data sharing, or support machine learning, bridging blockchain and AI.",
+          "subCategories": []
+        }
+      ],
+      "score": "1457520004"
+    },
+    {
+      "symbol": "WBTC",
+      "displaySymbol": "WBTC",
+      "name": "Wrapped Bitcoin",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599.png",
+        "websiteUrl": "https://www.wbtc.network/",
+        "name": "ERC20"
+      },
+      "precision": 8,
+      "products": [
+        "MercuryWithdrawals",
+        "InterestBalance",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "9757472458"
+    },
+    {
+      "symbol": "WCT.OETH",
+      "displaySymbol": "WCT",
+      "name": "WalletConnect",
+      "type": {
+        "parentChain": "OETH",
+        "erc20Address": "0xeF4461891DfB3AC8572cCf7C794664A8DD927945",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/optimism/0xeF4461891DfB3AC8572cCf7C794664A8DD927945.png",
+        "websiteUrl": "https://walletconnect.network/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "CWBalance",
+        "InterestBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "18881580"
+    },
+    {
+      "symbol": "WDGLD",
+      "displaySymbol": "WDGLD",
+      "name": "Wrapped-DGLD",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x123151402076fc819B7564510989e475c9cD93CA",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x123151402076fc819B7564510989e475c9cD93CA.png",
+        "websiteUrl": "https://dgld.ch/",
+        "name": "ERC20"
+      },
+      "precision": 8,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "WETH",
+      "displaySymbol": "WETH",
+      "name": "WETH",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.png",
+        "websiteUrl": "https://weth.io/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "5602074698"
+    },
+    {
+      "symbol": "WIF.SOL",
+      "displaySymbol": "WIF",
+      "name": "dogwifhat",
+      "type": {
+        "parentChain": "SOL",
+        "address": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/solana/EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm.png",
+        "websiteUrl": "https://dogwifcoin.org",
+        "name": "SOLANA_TOKEN"
+      },
+      "precision": 6,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "InterestBalance",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "MEME",
+          "name": "Meme",
+          "description": "Memecoins are cryptocurrencies inspired by internet memes or jokes, often characterized by their viral appeal and community-driven value.",
+          "subCategories": []
+        }
+      ],
+      "score": "235488343"
+    },
+    {
+      "symbol": "WLD",
+      "displaySymbol": "WLD",
+      "name": "Worldcoin",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x163f8C2467924be0ae7B5347228CABF260318753",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x163f8C2467924be0ae7B5347228CABF260318753.png",
+        "websiteUrl": "https://worldcoin.org/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "LAYER2",
+          "name": "Layer 2 or Layer 3",
+          "description": "Layer 2 and Layer 3 cryptos are scaling solutions built on top of blockchains to improve transaction speed, reduce costs, and enhance network efficiency. Layer 2s operate directly above Layer 1s, while Layer 3s build on top of Layer 2s to provide even greater scalability, customization, and application-specific functionality.",
+          "subCategories": []
+        }
+      ],
+      "score": "1622978928"
+    },
+    {
+      "symbol": "WLFI",
+      "displaySymbol": "WLFI",
+      "name": "World Liberty Financial",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xdA5e1988097297dCdc1f90D4dFE7909e847CBeF6",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xdA5e1988097297dCdc1f90D4dFE7909e847CBeF6.png",
+        "websiteUrl": "https://www.worldlibertyfinancial.com/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "CWWithdrawal",
+        "CWDeposit",
+        "CWBalance",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "1796968028"
+    },
+    {
+      "symbol": "WLUNA",
+      "displaySymbol": "WLUNA",
+      "name": "LUNA Token",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9.png",
+        "websiteUrl": "https://terra.money/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "MercuryWithdrawals",
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "2202086"
+    },
+    {
+      "symbol": "XAUT",
+      "displaySymbol": "XAUT",
+      "name": "Tether Gold",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x68749665FF8D2d112Fa859AA293F07A622782F38",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x68749665FF8D2d112Fa859AA293F07A622782F38.png",
+        "websiteUrl": "https://gold.tether.to/",
+        "name": "ERC20"
+      },
+      "precision": 6,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "RWA",
+          "name": "Real-World Assets (RWA)",
+          "description": "Tokens representing or referencing assets outside the blockchain, such as real estate, commodities, or financial instruments.",
+          "subCategories": []
+        }
+      ],
+      "score": "2652417226"
+    },
+    {
+      "symbol": "XLM",
+      "displaySymbol": "XLM",
+      "name": "Stellar",
+      "type": {
+        "minimumOnChainConfirmations": 1,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/stellar.png",
+        "name": "COIN"
+      },
+      "precision": 7,
+      "products": [
+        "MercuryWithdrawals",
+        "InterestBalance",
+        "PrivateKey",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance"
+      ],
+      "categories": [
+        {
+          "id": "LAYER1",
+          "name": "Layer 1",
+          "description": "Layer 1 cryptos are the foundational blockchain networks that process and validate transactions, providing the core infrastructure for decentralized applications.",
+          "subCategories": []
+        }
+      ],
+      "score": "6908193644"
+    },
+    {
+      "symbol": "XMR",
+      "displaySymbol": "XMR",
+      "name": "Monero",
+      "type": {
+        "minimumOnChainConfirmations": 0,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/monero.png",
+        "name": "COIN"
+      },
+      "precision": 12,
+      "products": [],
+      "categories": [],
+      "score": "10359560074"
+    },
+    {
+      "symbol": "XRP",
+      "displaySymbol": "XRP",
+      "name": "XRP",
+      "type": {
+        "minimumOnChainConfirmations": 1,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/ripple.png",
+        "name": "COIN"
+      },
+      "precision": 6,
+      "products": [
+        "MercuryWithdrawals",
+        "InterestBalance",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance"
+      ],
+      "categories": [
+        {
+          "id": "POPULAR",
+          "name": "Popular",
+          "description": "Popular cryptos are widely recognized and frequently traded cryptocurrencies known for their significant market presence and broad adoption.",
+          "subCategories": []
+        },
+        {
+          "id": "LAYER1",
+          "name": "Layer 1",
+          "description": "Layer 1 cryptos are the foundational blockchain networks that process and validate transactions, providing the core infrastructure for decentralized applications.",
+          "subCategories": []
+        }
+      ],
+      "score": "96045683124"
+    },
+    {
+      "symbol": "XTZ",
+      "displaySymbol": "XTZ",
+      "name": "Tezos",
+      "type": {
+        "minimumOnChainConfirmations": 10,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/tezos.png",
+        "websiteUrl": "https://tezos.com/",
+        "name": "COIN"
+      },
+      "precision": 6,
+      "products": [
+        "MercuryWithdrawals",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance"
+      ],
+      "categories": [
+        {
+          "id": "LAYER1",
+          "name": "Layer 1",
+          "description": "Layer 1 cryptos are the foundational blockchain networks that process and validate transactions, providing the core infrastructure for decentralized applications.",
+          "subCategories": []
+        }
+      ],
+      "score": "361952900"
+    },
+    {
+      "symbol": "XYO",
+      "displaySymbol": "XYO",
+      "name": "XY Oracle",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x55296f69f40Ea6d20E478533C15A6B08B654E758",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x55296f69f40Ea6d20E478533C15A6B08B654E758.png",
+        "websiteUrl": "https://xyo.network/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey"
+      ],
+      "categories": [],
+      "score": "49023683"
+    },
+    {
+      "symbol": "YFI",
+      "displaySymbol": "YFI",
+      "name": "yearn.finance",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e.png",
+        "websiteUrl": "https://yearn.fi/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "MercuryWithdrawals",
+        "InterestBalance",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance",
+        "PrivateKey"
+      ],
+      "categories": [
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "87097759"
+    },
+    {
+      "symbol": "ZEC",
+      "displaySymbol": "ZEC",
+      "name": "Zcash",
+      "type": {
+        "minimumOnChainConfirmations": 0,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/zcash.png",
+        "websiteUrl": "https://z.cash",
+        "name": "COIN"
+      },
+      "precision": 8,
+      "products": [],
+      "categories": [],
+      "score": "26309529056"
+    },
+    {
+      "symbol": "ZETA",
+      "displaySymbol": "ZETA",
+      "name": "ZetaChain",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xf091867EC603A6628eD83D274E835539D82e9cc8",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xf091867EC603A6628eD83D274E835539D82e9cc8.png",
+        "websiteUrl": "https://www.zetachain.com/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "MercuryWithdrawals",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "InterestBalance",
+        "PrivateKey",
+        "CustodialWalletBalance"
+      ],
+      "categories": [
+        {
+          "id": "LAYER1",
+          "name": "Layer 1",
+          "description": "Layer 1 cryptos are the foundational blockchain networks that process and validate transactions, providing the core infrastructure for decentralized applications.",
+          "subCategories": []
+        }
+      ],
+      "score": "83040127"
+    },
+    {
+      "symbol": "ZIL",
+      "displaySymbol": "ZIL",
+      "name": "Zilliqa",
+      "type": {
+        "minimumOnChainConfirmations": 0,
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/zilliqa.png",
+        "websiteUrl": "https://zilliqa.com",
+        "name": "COIN"
+      },
+      "precision": 12,
+      "products": [],
+      "categories": [],
+      "score": "72887555"
+    },
+    {
+      "symbol": "ZRX",
+      "displaySymbol": "ZRX",
+      "name": "0x",
+      "type": {
+        "parentChain": "ETH",
+        "erc20Address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/token/ethereum/0xE41d2489571d322189246DaFA5ebDe1F4699F498.png",
+        "websiteUrl": "https://www.0xprotocol.org/",
+        "name": "ERC20"
+      },
+      "precision": 18,
+      "products": [
+        "PrivateKey",
+        "MercuryWithdrawals",
+        "CWDeposit",
+        "CWBalance",
+        "CWWithdrawal",
+        "CustodialWalletBalance"
+      ],
+      "categories": [
+        {
+          "id": "DEFI",
+          "name": "DeFi",
+          "description": "DeFi cryptos are associated with decentralized financial applications, enabling activities like lending, borrowing, and trading without traditional intermediaries.",
+          "subCategories": []
+        }
+      ],
+      "score": "103332284"
+    },
+    {
+      "symbol": "ARS",
+      "displaySymbol": "ARS",
+      "name": "Argentine Peso",
+      "type": {
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/fiat/ARS.png",
+        "name": "FIAT"
+      },
+      "precision": 2,
+      "products": [],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "AUD",
+      "displaySymbol": "AUD",
+      "name": "Australian Dollar",
+      "type": {
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/fiat/AUD.png",
+        "name": "FIAT"
+      },
+      "precision": 2,
+      "products": [],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "BRL",
+      "displaySymbol": "BRL",
+      "name": "Brazilian Real",
+      "type": {
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/fiat/BRL.png",
+        "name": "FIAT"
+      },
+      "precision": 2,
+      "products": [
+        "CWBalance",
+        "CustodialWalletBalance"
+      ],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "CAD",
+      "displaySymbol": "CAD",
+      "name": "Canadian Dollar",
+      "type": {
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/fiat/CAD.png",
+        "name": "FIAT"
+      },
+      "precision": 2,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance"
+      ],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "CHF",
+      "displaySymbol": "CHF",
+      "name": "Swiss Franc",
+      "type": {
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/fiat/CHF.png",
+        "name": "FIAT"
+      },
+      "precision": 2,
+      "products": [
+        "CWDeposit",
+        "CWWithdrawal",
+        "CWBalance",
+        "CustodialWalletBalance"
+      ],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "CLP",
+      "displaySymbol": "CLP",
+      "name": "Chilean Peso",
+      "type": {
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/fiat/CLP.png",
+        "name": "FIAT"
+      },
+      "precision": 0,
+      "products": [],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "CNY",
+      "displaySymbol": "CNY",
+      "name": "Chinese Yuan",
+      "type": {
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/fiat/CNY.png",
+        "name": "FIAT"
+      },
+      "precision": 2,
+      "products": [],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "CZK",
+      "displaySymbol": "CZK",
+      "name": "Czech Koruna",
+      "type": {
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/fiat/CZK.png",
+        "name": "FIAT"
+      },
+      "precision": 2,
+      "products": [],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "DKK",
+      "displaySymbol": "DKK",
+      "name": "Danish Krone",
+      "type": {
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/fiat/DKK.png",
+        "name": "FIAT"
+      },
+      "precision": 2,
+      "products": [],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "EUR",
+      "displaySymbol": "EUR",
+      "name": "Euro",
+      "type": {
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/fiat/EUR.png",
+        "name": "FIAT"
+      },
+      "precision": 2,
+      "products": [
+        "MercuryWithdrawals",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance"
+      ],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "GBP",
+      "displaySymbol": "GBP",
+      "name": "British Pound",
+      "type": {
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/fiat/GBP.png",
+        "name": "FIAT"
+      },
+      "precision": 2,
+      "products": [
+        "MercuryWithdrawals",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance"
+      ],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "GHS",
+      "displaySymbol": "GHS",
+      "name": "Ghanaian Cedi",
+      "type": {
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/fiat/GHS.png",
+        "name": "FIAT"
+      },
+      "precision": 2,
+      "products": [
+        "CWWithdrawal",
+        "CWDeposit",
+        "CWBalance",
+        "CustodialWalletBalance"
+      ],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "HKD",
+      "displaySymbol": "HKD",
+      "name": "Hong Kong Dollar",
+      "type": {
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/fiat/HKD.png",
+        "name": "FIAT"
+      },
+      "precision": 2,
+      "products": [],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "HRK",
+      "displaySymbol": "HRK",
+      "name": "Croatian Kuna",
+      "type": {
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/fiat/HRK.png",
+        "name": "FIAT"
+      },
+      "precision": 2,
+      "products": [],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "HUF",
+      "displaySymbol": "HUF",
+      "name": "Hungarian Forint",
+      "type": {
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/fiat/HUF.png",
+        "name": "FIAT"
+      },
+      "precision": 2,
+      "products": [],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "INR",
+      "displaySymbol": "INR",
+      "name": "Indian Rupee",
+      "type": {
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/fiat/INR.png",
+        "name": "FIAT"
+      },
+      "precision": 2,
+      "products": [],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "ISK",
+      "displaySymbol": "ISK",
+      "name": "Icelandic Króna",
+      "type": {
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/fiat/ISK.png",
+        "name": "FIAT"
+      },
+      "precision": 0,
+      "products": [],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "JPY",
+      "displaySymbol": "JPY",
+      "name": "Japanese Yen",
+      "type": {
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/fiat/JPY.png",
+        "name": "FIAT"
+      },
+      "precision": 0,
+      "products": [],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "KRW",
+      "displaySymbol": "KRW",
+      "name": "South Korean Won",
+      "type": {
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/fiat/KRW.png",
+        "name": "FIAT"
+      },
+      "precision": 0,
+      "products": [],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "NGN",
+      "displaySymbol": "NGN",
+      "name": "Nigerian Naira",
+      "type": {
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/fiat/NGN.png",
+        "name": "FIAT"
+      },
+      "precision": 2,
+      "products": [
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance"
+      ],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "NZD",
+      "displaySymbol": "NZD",
+      "name": "New Zealand Dollar",
+      "type": {
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/fiat/NZD.png",
+        "name": "FIAT"
+      },
+      "precision": 2,
+      "products": [],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "PLN",
+      "displaySymbol": "PLN",
+      "name": "Polish złoty",
+      "type": {
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/fiat/PLN.png",
+        "name": "FIAT"
+      },
+      "precision": 2,
+      "products": [],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "RON",
+      "displaySymbol": "RON",
+      "name": "Romanian Leu",
+      "type": {
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/fiat/RON.png",
+        "name": "FIAT"
+      },
+      "precision": 2,
+      "products": [],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "RUB",
+      "displaySymbol": "RUB",
+      "name": "Russian Ruble",
+      "type": {
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/fiat/RUB.png",
+        "name": "FIAT"
+      },
+      "precision": 2,
+      "products": [],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "SEK",
+      "displaySymbol": "SEK",
+      "name": "Swedish Krona",
+      "type": {
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/fiat/SEK.png",
+        "name": "FIAT"
+      },
+      "precision": 2,
+      "products": [],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "SGD",
+      "displaySymbol": "SGD",
+      "name": "Singapore Dollar",
+      "type": {
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/fiat/SGD.png",
+        "name": "FIAT"
+      },
+      "precision": 2,
+      "products": [],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "THB",
+      "displaySymbol": "THB",
+      "name": "Thai Baht",
+      "type": {
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/fiat/THB.png",
+        "name": "FIAT"
+      },
+      "precision": 2,
+      "products": [],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "TRY",
+      "displaySymbol": "TRY",
+      "name": "Turkish Lira",
+      "type": {
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/fiat/TRY.png",
+        "name": "FIAT"
+      },
+      "precision": 2,
+      "products": [],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "TWD",
+      "displaySymbol": "TWD",
+      "name": "New Taiwan Dollar",
+      "type": {
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/fiat/TWD.png",
+        "name": "FIAT"
+      },
+      "precision": 2,
+      "products": [],
+      "categories": [],
+      "score": "0"
+    },
+    {
+      "symbol": "USD",
+      "displaySymbol": "USD",
+      "name": "US Dollar",
+      "type": {
+        "logoPngUrl": "https://login.blockchain.com/static/asset/currency/fiat/USD.png",
+        "name": "FIAT"
+      },
+      "precision": 2,
+      "products": [
+        "MercuryWithdrawals",
+        "CWBalance",
+        "CWDeposit",
+        "CWWithdrawal",
+        "CustodialWalletBalance"
+      ],
+      "categories": [],
+      "score": "0"
+    }
+  ],
+  "groups": [
+    {
+      "parentSymbol": "USDC",
+      "childSymbols": [
+        "USDC.BASEETH",
+        "USDC.OETH",
+        "USDC.SOL",
+        "USDC.ARBETH",
+        "USDC.MATIC"
+      ]
+    },
+    {
+      "parentSymbol": "USDT",
+      "childSymbols": [
+        "USDT.TRX",
+        "USDT.SOL",
+        "USDT.TON"
+      ]
+    },
+    {
+      "parentSymbol": "ETH",
+      "childSymbols": [
+        "BASEETH",
+        "OETH",
+        "ARBETH"
+      ]
+    }
+  ],
+  "xChainGroups": [
+    {
+      "symbol": "USDC",
+      "assets": [
+        {
+          "id": "USDC",
+          "default": true,
+          "networkCode": "ETH",
+          "networkName": "Ethereum",
+          "withdrawalEnabled": true,
+          "depositEnabled": true
+        },
+        {
+          "id": "USDC.BASEETH",
+          "default": false,
+          "networkCode": "BASEETH",
+          "networkName": "Base",
+          "withdrawalEnabled": true,
+          "depositEnabled": true
+        },
+        {
+          "id": "USDC.OETH",
+          "default": false,
+          "networkCode": "OETH",
+          "networkName": "Optimism",
+          "withdrawalEnabled": true,
+          "depositEnabled": true
+        },
+        {
+          "id": "USDC.SOL",
+          "default": false,
+          "networkCode": "SOL",
+          "networkName": "Solana",
+          "withdrawalEnabled": true,
+          "depositEnabled": true
+        },
+        {
+          "id": "USDC.ARBETH",
+          "default": false,
+          "networkCode": "ARBETH",
+          "networkName": "Arbitrum",
+          "withdrawalEnabled": true,
+          "depositEnabled": true
+        },
+        {
+          "id": "USDC.MATIC",
+          "default": false,
+          "networkCode": "MATIC",
+          "networkName": "Polygon",
+          "withdrawalEnabled": true,
+          "depositEnabled": true
+        }
+      ]
+    },
+    {
+      "symbol": "USDT",
+      "assets": [
+        {
+          "id": "USDT",
+          "default": true,
+          "networkCode": "ETH",
+          "networkName": "Ethereum",
+          "withdrawalEnabled": true,
+          "depositEnabled": true
+        },
+        {
+          "id": "USDT.TRX",
+          "default": false,
+          "networkCode": "TRX",
+          "networkName": "TRON",
+          "withdrawalEnabled": true,
+          "depositEnabled": true
+        },
+        {
+          "id": "USDT.SOL",
+          "default": false,
+          "networkCode": "SOL",
+          "networkName": "Solana",
+          "withdrawalEnabled": true,
+          "depositEnabled": true
+        },
+        {
+          "id": "USDT.TON",
+          "default": false,
+          "networkCode": "TON",
+          "networkName": "Ton",
+          "withdrawalEnabled": true,
+          "depositEnabled": true
+        }
+      ]
+    },
+    {
+      "symbol": "ETH",
+      "assets": [
+        {
+          "id": "ETH",
+          "default": true,
+          "networkCode": "ETH",
+          "networkName": "Ethereum",
+          "withdrawalEnabled": true,
+          "depositEnabled": true
+        },
+        {
+          "id": "BASEETH",
+          "default": false,
+          "networkCode": "BASEETH",
+          "networkName": "Base",
+          "withdrawalEnabled": true,
+          "depositEnabled": true
+        },
+        {
+          "id": "OETH",
+          "default": false,
+          "networkCode": "OETH",
+          "networkName": "Optimism",
+          "withdrawalEnabled": true,
+          "depositEnabled": true
+        },
+        {
+          "id": "ARBETH",
+          "default": false,
+          "networkCode": "ARBETH",
+          "networkName": "Arbitrum",
+          "withdrawalEnabled": true,
+          "depositEnabled": true
+        }
+      ]
+    }
+  ]
+}

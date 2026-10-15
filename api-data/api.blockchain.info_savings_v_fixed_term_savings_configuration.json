@@ -1,0 +1,968 @@
+{
+  "assets": [
+    {
+      "currency": "AAVE",
+      "baseRate": 2.0,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.15,
+          "rate": 2.15
+        }
+      ]
+    },
+    {
+      "currency": "ADA",
+      "baseRate": 2.0,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.15,
+          "rate": 2.15
+        }
+      ]
+    },
+    {
+      "currency": "ALGO",
+      "baseRate": 2.0,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.15,
+          "rate": 2.15
+        }
+      ]
+    },
+    {
+      "currency": "APE",
+      "baseRate": 0.1,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.02,
+          "rate": 0.12
+        }
+      ]
+    },
+    {
+      "currency": "AVAX",
+      "baseRate": 3.0,
+      "terms": [
+        {
+          "maturity": {
+            "value": 3,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.2,
+          "rate": 3.2
+        },
+        {
+          "maturity": {
+            "value": 6,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.3,
+          "rate": 3.3
+        },
+        {
+          "maturity": {
+            "value": 9,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.35,
+          "rate": 3.35
+        },
+        {
+          "maturity": {
+            "value": 12,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.4,
+          "rate": 3.4
+        }
+      ]
+    },
+    {
+      "currency": "BAT",
+      "baseRate": 0.1,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.02,
+          "rate": 0.12
+        }
+      ]
+    },
+    {
+      "currency": "BCH",
+      "baseRate": 2.0,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.15,
+          "rate": 2.15
+        }
+      ]
+    },
+    {
+      "currency": "BNB",
+      "baseRate": 3.0,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.15,
+          "rate": 3.15
+        }
+      ]
+    },
+    {
+      "currency": "BTC",
+      "baseRate": 0.65,
+      "terms": [
+        {
+          "maturity": {
+            "value": 3,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.35,
+          "rate": 1.0
+        },
+        {
+          "maturity": {
+            "value": 6,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.8,
+          "rate": 1.45
+        },
+        {
+          "maturity": {
+            "value": 9,
+            "unit": "MONTH"
+          },
+          "boostRate": 1.2,
+          "rate": 1.85
+        },
+        {
+          "maturity": {
+            "value": 12,
+            "unit": "MONTH"
+          },
+          "boostRate": 1.75,
+          "rate": 2.4
+        }
+      ]
+    },
+    {
+      "currency": "CAKE.BNB",
+      "baseRate": 0.5,
+      "terms": [
+        {
+          "maturity": {
+            "value": 3,
+            "unit": "MONTH"
+          },
+          "boostRate": 2.0,
+          "rate": 2.5
+        },
+        {
+          "maturity": {
+            "value": 6,
+            "unit": "MONTH"
+          },
+          "boostRate": 3.0,
+          "rate": 3.5
+        },
+        {
+          "maturity": {
+            "value": 9,
+            "unit": "MONTH"
+          },
+          "boostRate": 4.0,
+          "rate": 4.5
+        },
+        {
+          "maturity": {
+            "value": 12,
+            "unit": "MONTH"
+          },
+          "boostRate": 5.0,
+          "rate": 5.5
+        }
+      ]
+    },
+    {
+      "currency": "CELO",
+      "baseRate": 0.1,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.02,
+          "rate": 0.12
+        }
+      ]
+    },
+    {
+      "currency": "CHZ",
+      "baseRate": 0.2,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.03,
+          "rate": 0.23
+        }
+      ]
+    },
+    {
+      "currency": "CLOUT",
+      "baseRate": 0.1,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.02,
+          "rate": 0.12
+        }
+      ]
+    },
+    {
+      "currency": "COMP",
+      "baseRate": 2.0,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.15,
+          "rate": 2.15
+        }
+      ]
+    },
+    {
+      "currency": "CRV",
+      "baseRate": 0.2,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.03,
+          "rate": 0.23
+        }
+      ]
+    },
+    {
+      "currency": "DOGE",
+      "baseRate": 2.0,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.15,
+          "rate": 2.15
+        }
+      ]
+    },
+    {
+      "currency": "DOOD.SOL",
+      "baseRate": 0.1,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.02,
+          "rate": 0.12
+        }
+      ]
+    },
+    {
+      "currency": "DOT",
+      "baseRate": 3.0,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.15,
+          "rate": 3.15
+        }
+      ]
+    },
+    {
+      "currency": "ENA",
+      "baseRate": 2.0,
+      "terms": [
+        {
+          "maturity": {
+            "value": 3,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.25,
+          "rate": 2.25
+        },
+        {
+          "maturity": {
+            "value": 6,
+            "unit": "MONTH"
+          },
+          "boostRate": 1.0,
+          "rate": 3.0
+        },
+        {
+          "maturity": {
+            "value": 9,
+            "unit": "MONTH"
+          },
+          "boostRate": 1.5,
+          "rate": 3.5
+        },
+        {
+          "maturity": {
+            "value": 12,
+            "unit": "MONTH"
+          },
+          "boostRate": 2.0,
+          "rate": 4.0
+        }
+      ]
+    },
+    {
+      "currency": "ETC",
+      "baseRate": 2.0,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.15,
+          "rate": 2.15
+        }
+      ]
+    },
+    {
+      "currency": "ETH",
+      "baseRate": 3.0,
+      "terms": [
+        {
+          "maturity": {
+            "value": 3,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.25,
+          "rate": 3.25
+        },
+        {
+          "maturity": {
+            "value": 6,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.5,
+          "rate": 3.5
+        },
+        {
+          "maturity": {
+            "value": 9,
+            "unit": "MONTH"
+          },
+          "boostRate": 1.0,
+          "rate": 4.0
+        },
+        {
+          "maturity": {
+            "value": 12,
+            "unit": "MONTH"
+          },
+          "boostRate": 1.5,
+          "rate": 4.5
+        }
+      ]
+    },
+    {
+      "currency": "GALA",
+      "baseRate": 0.1,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.02,
+          "rate": 0.12
+        }
+      ]
+    },
+    {
+      "currency": "HYPE",
+      "baseRate": 2.0,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.15,
+          "rate": 2.15
+        }
+      ]
+    },
+    {
+      "currency": "LINK",
+      "baseRate": 3.0,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.15,
+          "rate": 3.15
+        }
+      ]
+    },
+    {
+      "currency": "LTC",
+      "baseRate": 3.0,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.15,
+          "rate": 3.15
+        }
+      ]
+    },
+    {
+      "currency": "MATIC.MATIC",
+      "baseRate": 2.0,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.15,
+          "rate": 2.15
+        }
+      ]
+    },
+    {
+      "currency": "NEAR",
+      "baseRate": 3.0,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.15,
+          "rate": 3.15
+        }
+      ]
+    },
+    {
+      "currency": "NEIRO",
+      "baseRate": 0.1,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.02,
+          "rate": 0.12
+        }
+      ]
+    },
+    {
+      "currency": "OTRUMP.SOL",
+      "baseRate": 2.0,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.15,
+          "rate": 2.15
+        }
+      ]
+    },
+    {
+      "currency": "PAX",
+      "baseRate": 9.0,
+      "terms": [
+        {
+          "maturity": {
+            "value": 3,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.15,
+          "rate": 9.15
+        },
+        {
+          "maturity": {
+            "value": 6,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.5,
+          "rate": 9.5
+        },
+        {
+          "maturity": {
+            "value": 9,
+            "unit": "MONTH"
+          },
+          "boostRate": 1.5,
+          "rate": 10.5
+        },
+        {
+          "maturity": {
+            "value": 12,
+            "unit": "MONTH"
+          },
+          "boostRate": 2.0,
+          "rate": 11.0
+        }
+      ]
+    },
+    {
+      "currency": "PENGU.SOL",
+      "baseRate": 0.2,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.03,
+          "rate": 0.23
+        }
+      ]
+    },
+    {
+      "currency": "PNUT.SOL",
+      "baseRate": 0.1,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.02,
+          "rate": 0.12
+        }
+      ]
+    },
+    {
+      "currency": "SNX",
+      "baseRate": 2.0,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.15,
+          "rate": 2.15
+        }
+      ]
+    },
+    {
+      "currency": "SOL",
+      "baseRate": 4.0,
+      "terms": [
+        {
+          "maturity": {
+            "value": 3,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.3,
+          "rate": 4.3
+        },
+        {
+          "maturity": {
+            "value": 6,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.35,
+          "rate": 4.35
+        },
+        {
+          "maturity": {
+            "value": 9,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.4,
+          "rate": 4.4
+        },
+        {
+          "maturity": {
+            "value": 12,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.45,
+          "rate": 4.45
+        }
+      ]
+    },
+    {
+      "currency": "STX",
+      "baseRate": 2.0,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.15,
+          "rate": 2.15
+        }
+      ]
+    },
+    {
+      "currency": "SUI",
+      "baseRate": 1.5,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.15,
+          "rate": 1.65
+        }
+      ]
+    },
+    {
+      "currency": "SUSHI",
+      "baseRate": 0.2,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.03,
+          "rate": 0.23
+        }
+      ]
+    },
+    {
+      "currency": "TRX",
+      "baseRate": 5.0,
+      "terms": [
+        {
+          "maturity": {
+            "value": 3,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.5,
+          "rate": 5.5
+        }
+      ]
+    },
+    {
+      "currency": "UMA",
+      "baseRate": 8.0,
+      "terms": [
+        {
+          "maturity": {
+            "value": 3,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.5,
+          "rate": 8.5
+        },
+        {
+          "maturity": {
+            "value": 6,
+            "unit": "MONTH"
+          },
+          "boostRate": 1.0,
+          "rate": 9.0
+        },
+        {
+          "maturity": {
+            "value": 9,
+            "unit": "MONTH"
+          },
+          "boostRate": 1.5,
+          "rate": 9.5
+        },
+        {
+          "maturity": {
+            "value": 12,
+            "unit": "MONTH"
+          },
+          "boostRate": 2.0,
+          "rate": 10.0
+        }
+      ]
+    },
+    {
+      "currency": "UNI",
+      "baseRate": 0.2,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.03,
+          "rate": 0.23
+        }
+      ]
+    },
+    {
+      "currency": "USDC",
+      "baseRate": 9.0,
+      "terms": [
+        {
+          "maturity": {
+            "value": 3,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.15,
+          "rate": 9.15
+        },
+        {
+          "maturity": {
+            "value": 6,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.5,
+          "rate": 9.5
+        },
+        {
+          "maturity": {
+            "value": 9,
+            "unit": "MONTH"
+          },
+          "boostRate": 1.5,
+          "rate": 10.5
+        },
+        {
+          "maturity": {
+            "value": 12,
+            "unit": "MONTH"
+          },
+          "boostRate": 2.0,
+          "rate": 11.0
+        }
+      ]
+    },
+    {
+      "currency": "USDT",
+      "baseRate": 9.0,
+      "terms": [
+        {
+          "maturity": {
+            "value": 3,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.15,
+          "rate": 9.15
+        },
+        {
+          "maturity": {
+            "value": 6,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.5,
+          "rate": 9.5
+        },
+        {
+          "maturity": {
+            "value": 9,
+            "unit": "MONTH"
+          },
+          "boostRate": 1.5,
+          "rate": 10.5
+        },
+        {
+          "maturity": {
+            "value": 12,
+            "unit": "MONTH"
+          },
+          "boostRate": 2.0,
+          "rate": 11.0
+        }
+      ]
+    },
+    {
+      "currency": "VIRTUAL.BASEETH",
+      "baseRate": 2.0,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.15,
+          "rate": 2.15
+        }
+      ]
+    },
+    {
+      "currency": "WBTC",
+      "baseRate": 0.65,
+      "terms": [
+        {
+          "maturity": {
+            "value": 3,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.35,
+          "rate": 1.0
+        },
+        {
+          "maturity": {
+            "value": 6,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.8,
+          "rate": 1.45
+        },
+        {
+          "maturity": {
+            "value": 9,
+            "unit": "MONTH"
+          },
+          "boostRate": 1.2,
+          "rate": 1.85
+        },
+        {
+          "maturity": {
+            "value": 12,
+            "unit": "MONTH"
+          },
+          "boostRate": 1.75,
+          "rate": 2.4
+        }
+      ]
+    },
+    {
+      "currency": "WCT.OETH",
+      "baseRate": 5.0,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.15,
+          "rate": 5.15
+        }
+      ]
+    },
+    {
+      "currency": "WIF.SOL",
+      "baseRate": 0.2,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.03,
+          "rate": 0.23
+        }
+      ]
+    },
+    {
+      "currency": "XLM",
+      "baseRate": 2.0,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.15,
+          "rate": 2.15
+        }
+      ]
+    },
+    {
+      "currency": "XRP",
+      "baseRate": 2.0,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.15,
+          "rate": 2.15
+        }
+      ]
+    },
+    {
+      "currency": "YFI",
+      "baseRate": 0.2,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.02,
+          "rate": 0.22
+        }
+      ]
+    },
+    {
+      "currency": "ZETA",
+      "baseRate": 5.0,
+      "terms": [
+        {
+          "maturity": {
+            "value": 1,
+            "unit": "MONTH"
+          },
+          "boostRate": 0.15,
+          "rate": 5.15
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "rates": {
+    "ETH": {
+      "rate": 2.0,
+      "commission": 14.0
+    },
+    "SOL": {
+      "rate": 4.0,
+      "commission": 1.0
+    }
+  }
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://blockchainwallets.xyz/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://blockchainwallets.xyz/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://blockchainwallets.xyz/de/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://blockchainwallets.xyz/"/>
+  </url>
+
+  <url>
+    <loc>https://blockchainwallets.xyz/de/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://blockchainwallets.xyz/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://blockchainwallets.xyz/de/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://blockchainwallets.xyz/"/>
+  </url>
+
+</urlset>

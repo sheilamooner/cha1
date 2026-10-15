@@ -1,0 +1,215 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * gotham:
+ *   - http://typekit.com/eulas/0000000000000000775aa916
+ *   - http://typekit.com/eulas/0000000000000000775aa933
+ *   - http://typekit.com/eulas/0000000000000000775aa954
+ *   - http://typekit.com/eulas/0000000000000000775aa92f
+ *   - http://typekit.com/eulas/0000000000000000775aa92a
+ *   - http://typekit.com/eulas/0000000000000000775aa944
+ *   - http://typekit.com/eulas/0000000000000000775aa930
+ *   - http://typekit.com/eulas/0000000000000000775aa92b
+ *   - http://typekit.com/eulas/0000000000000000775aa937
+ *   - http://typekit.com/eulas/0000000000000000775aa926
+ *   - http://typekit.com/eulas/0000000000000000775aa91c
+ *   - http://typekit.com/eulas/0000000000000000775aa938
+ *   - http://typekit.com/eulas/0000000000000000775aa92e
+ *   - http://typekit.com/eulas/0000000000000000775aa94f
+ *   - http://typekit.com/eulas/0000000000000000775aa94a
+ *   - http://typekit.com/eulas/0000000000000000775aa950
+ * gotham-condensed:
+ *   - http://typekit.com/eulas/0000000000000000775aa92c
+ *   - http://typekit.com/eulas/0000000000000000775aa91b
+ *   - http://typekit.com/eulas/0000000000000000775aa919
+ *   - http://typekit.com/eulas/0000000000000000775aa942
+ * gotham-narrow:
+ *   - http://typekit.com/eulas/0000000000000000775aa94d
+ *   - http://typekit.com/eulas/0000000000000000775aa93e
+ *   - http://typekit.com/eulas/0000000000000000775aa91e
+ *   - http://typekit.com/eulas/0000000000000000775aa951
+ * gotham-xnarrow:
+ *   - http://typekit.com/eulas/0000000000000000775aa922
+ *   - http://typekit.com/eulas/0000000000000000775aa921
+ *   - http://typekit.com/eulas/0000000000000000775aa928
+ *   - http://typekit.com/eulas/0000000000000000775aa940
+ *
+ * © 2009-2026 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2026-04-24 16:38:57 UTC"}*/
+
+@font-face {
+font-family:"gotham-xnarrow";
+src:url("fonts/font-0df264-v31-l-n3.woff2") format("woff2"),url("fonts/font-0df264-v31-d-n3.woff2") format("woff"),url("fonts/font-0df264-v31-a-n3.woff2") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"gotham-xnarrow";
+src:url("fonts/font-49d898-v31-l-n7.woff2") format("woff2"),url("fonts/font-49d898-v31-d-n7.woff2") format("woff"),url("fonts/font-49d898-v31-a-n7.woff2") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"gotham-xnarrow";
+src:url("fonts/font-759176-v31-l-i7.woff2") format("woff2"),url("fonts/font-759176-v31-d-i7.woff2") format("woff"),url("fonts/font-759176-v31-a-i7.woff2") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"gotham-xnarrow";
+src:url("fonts/font-b60196-v31-l-i3.woff2") format("woff2"),url("fonts/font-b60196-v31-d-i3.woff2") format("woff"),url("fonts/font-b60196-v31-a-i3.woff2") format("opentype");
+font-display:auto;font-style:italic;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"gotham-narrow";
+src:url("fonts/font-14efd1-v31-l-n4.woff2") format("woff2"),url("fonts/font-14efd1-v31-d-n4.woff2") format("woff"),url("fonts/font-14efd1-v31-a-n4.woff2") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"gotham-narrow";
+src:url("fonts/font-14b5c7-v31-l-i7.woff2") format("woff2"),url("fonts/font-14b5c7-v31-d-i7.woff2") format("woff"),url("fonts/font-14b5c7-v31-a-i7.woff2") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"gotham-narrow";
+src:url("fonts/font-1dc5a1-v31-l-i4.woff2") format("woff2"),url("fonts/font-1dc5a1-v31-d-i4.woff2") format("woff"),url("fonts/font-1dc5a1-v31-a-i4.woff2") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"gotham-narrow";
+src:url("fonts/font-9cfc6b-v31-l-n7.woff2") format("woff2"),url("fonts/font-9cfc6b-v31-d-n7.woff2") format("woff"),url("fonts/font-9cfc6b-v31-a-n7.woff2") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"gotham-condensed";
+src:url("fonts/font-b50fe4-v31-l-n7.woff2") format("woff2"),url("fonts/font-b50fe4-v31-d-n7.woff2") format("woff"),url("fonts/font-b50fe4-v31-a-n7.woff2") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"gotham-condensed";
+src:url("fonts/font-e9452d-v31-l-i7.woff2") format("woff2"),url("fonts/font-e9452d-v31-d-i7.woff2") format("woff"),url("fonts/font-e9452d-v31-a-i7.woff2") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"gotham-condensed";
+src:url("fonts/font-5e011f-v31-l-i4.woff2") format("woff2"),url("fonts/font-5e011f-v31-d-i4.woff2") format("woff"),url("fonts/font-5e011f-v31-a-i4.woff2") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"gotham-condensed";
+src:url("fonts/font-a2f7e5-v31-l-n4.woff2") format("woff2"),url("fonts/font-a2f7e5-v31-d-n4.woff2") format("woff"),url("fonts/font-a2f7e5-v31-a-n4.woff2") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"gotham";
+src:url("fonts/font-42515e-v31-l-n8-sub2.woff2") format("woff2"),url("fonts/font-42515e-v31-d-n8-sub2.woff2") format("woff"),url("fonts/font-42515e-v31-a-n8-sub2.woff2") format("opentype");
+font-display:auto;font-style:normal;font-weight:800;font-stretch:normal;
+}
+
+@font-face {
+font-family:"gotham";
+src:url("fonts/font-01d589-v31-l-i2-sub2.woff2") format("woff2"),url("fonts/font-01d589-v31-d-i2-sub2.woff2") format("woff"),url("fonts/font-01d589-v31-a-i2-sub2.woff2") format("opentype");
+font-display:auto;font-style:italic;font-weight:200;font-stretch:normal;
+}
+
+@font-face {
+font-family:"gotham";
+src:url("fonts/font-d14c0d-v31-l-i1-sub2.woff2") format("woff2"),url("fonts/font-d14c0d-v31-d-i1-sub2.woff2") format("woff"),url("fonts/font-d14c0d-v31-a-i1-sub2.woff2") format("opentype");
+font-display:auto;font-style:italic;font-weight:100;font-stretch:normal;
+}
+
+@font-face {
+font-family:"gotham";
+src:url("fonts/font-4f91c5-v31-l-n5-sub2.woff2") format("woff2"),url("fonts/font-4f91c5-v31-d-n5-sub2.woff2") format("woff"),url("fonts/font-4f91c5-v31-a-n5-sub2.woff2") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"gotham";
+src:url("fonts/font-bc414d-v31-l-i3-sub2.woff2") format("woff2"),url("fonts/font-bc414d-v31-d-i3-sub2.woff2") format("woff"),url("fonts/font-bc414d-v31-a-i3-sub2.woff2") format("opentype");
+font-display:auto;font-style:italic;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"gotham";
+src:url("fonts/font-4b20c2-v31-l-i8-sub2.woff2") format("woff2"),url("fonts/font-4b20c2-v31-d-i8-sub2.woff2") format("woff"),url("fonts/font-4b20c2-v31-a-i8-sub2.woff2") format("opentype");
+font-display:auto;font-style:italic;font-weight:800;font-stretch:normal;
+}
+
+@font-face {
+font-family:"gotham";
+src:url("fonts/font-e0cede-v31-l-n4.woff2") format("woff2"),url("fonts/font-e0cede-v31-d-n4.woff2") format("woff"),url("fonts/font-e0cede-v31-a-n4.woff2") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"gotham";
+src:url("fonts/font-a200e2-v31-l-i7.woff2") format("woff2"),url("fonts/font-a200e2-v31-d-i7.woff2") format("woff"),url("fonts/font-a200e2-v31-a-i7.woff2") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"gotham";
+src:url("fonts/font-61abce-v31-l-i4.woff2") format("woff2"),url("fonts/font-61abce-v31-d-i4.woff2") format("woff"),url("fonts/font-61abce-v31-a-i4.woff2") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"gotham";
+src:url("fonts/font-4a92c2-v31-l-i5-sub2.woff2") format("woff2"),url("fonts/font-4a92c2-v31-d-i5-sub2.woff2") format("woff"),url("fonts/font-4a92c2-v31-a-i5-sub2.woff2") format("opentype");
+font-display:auto;font-style:italic;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"gotham";
+src:url("fonts/font-1a9b77-v31-l-n1-sub2.woff2") format("woff2"),url("fonts/font-1a9b77-v31-d-n1-sub2.woff2") format("woff"),url("fonts/font-1a9b77-v31-a-n1-sub2.woff2") format("opentype");
+font-display:auto;font-style:normal;font-weight:100;font-stretch:normal;
+}
+
+@font-face {
+font-family:"gotham";
+src:url("fonts/font-aaa6a3-v31-l-n7.woff2") format("woff2"),url("fonts/font-aaa6a3-v31-d-n7.woff2") format("woff"),url("fonts/font-aaa6a3-v31-a-n7.woff2") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"gotham";
+src:url("fonts/font-f34e19-v31-l-n3-sub2.woff2") format("woff2"),url("fonts/font-f34e19-v31-d-n3-sub2.woff2") format("woff"),url("fonts/font-f34e19-v31-a-n3-sub2.woff2") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"gotham";
+src:url("fonts/font-2677cd-v31-l-i9-sub2.woff2") format("woff2"),url("fonts/font-2677cd-v31-d-i9-sub2.woff2") format("woff"),url("fonts/font-2677cd-v31-a-i9-sub2.woff2") format("opentype");
+font-display:auto;font-style:italic;font-weight:900;font-stretch:normal;
+}
+
+@font-face {
+font-family:"gotham";
+src:url("fonts/font-4776b7-v31-l-n2-sub2.woff2") format("woff2"),url("fonts/font-4776b7-v31-d-n2-sub2.woff2") format("woff"),url("fonts/font-4776b7-v31-a-n2-sub2.woff2") format("opentype");
+font-display:auto;font-style:normal;font-weight:200;font-stretch:normal;
+}
+
+@font-face {
+font-family:"gotham";
+src:url("fonts/font-3497c4-v31-l-n9-sub2.woff2") format("woff2"),url("fonts/font-3497c4-v31-d-n9-sub2.woff2") format("woff"),url("fonts/font-3497c4-v31-a-n9-sub2.woff2") format("opentype");
+font-display:auto;font-style:normal;font-weight:900;font-stretch:normal;
+}
+
+.tk-gotham-xnarrow { font-family: "gotham-xnarrow",sans-serif; }
+.tk-gotham-narrow { font-family: "gotham-narrow",sans-serif; }
+.tk-gotham-condensed { font-family: "gotham-condensed",sans-serif; }
+.tk-gotham { font-family: "gotham",sans-serif; }
